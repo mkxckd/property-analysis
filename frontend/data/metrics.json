@@ -1,0 +1,118 @@
+{
+  "dedup": {
+    "true_duplicate_pairs": 418,
+    "predicted_duplicate_pairs": 425,
+    "true_positive_pairs": 406,
+    "false_positive_pairs": 19,
+    "false_negative_pairs": 12,
+    "precision": 0.9553,
+    "recall": 0.9713,
+    "f1": 0.9632,
+    "clusters_found": 306,
+    "runtime_seconds": 0.326,
+    "listings_scored": 2629
+  },
+  "model": {
+    "n_train": 1758,
+    "n_test": 440,
+    "mae_aed": 1215.0,
+    "mape": 0.1031,
+    "r2": 0.9659
+  },
+  "fraud_detection": {
+    "true_suspicious": 66,
+    "naive_baseline": {
+      "flagged": 69,
+      "true_positives": 60,
+      "false_positives": 9,
+      "false_negatives": 6,
+      "precision": 0.8696,
+      "recall": 0.9091,
+      "f1": 0.8889,
+      "method": "naive: price < 65% of area+type median"
+    },
+    "model_based": {
+      "flagged": 70,
+      "true_positives": 65,
+      "false_positives": 5,
+      "false_negatives": 1,
+      "precision": 0.9286,
+      "recall": 0.9848,
+      "f1": 0.9559,
+      "method": "model: priced >30% below predicted fair value",
+      "threshold": -0.3
+    },
+    "precision_improvement": 0.059,
+    "f1_improvement": 0.067
+  },
+  "data_quality": {
+    "total_listings": 2629,
+    "field_completeness": {
+      "title": 1.0,
+      "area": 1.0,
+      "property_type": 1.0,
+      "price_aed_month": 1.0,
+      "size_sqft": 1.0,
+      "listed_date": 1.0
+    },
+    "exact_duplicate_rows": 254,
+    "invalid_price_rows": 0
+  },
+  "streaming": {
+    "events_scored": 2629,
+    "avg_latency_ms": 3.0189,
+    "p50_latency_ms": 2.4244,
+    "p99_latency_ms": 9.015,
+    "max_latency_ms": 18.2093
+  },
+  "warehouse": {
+    "fact_listings": 2629,
+    "dim_area": 12,
+    "dim_property_type": 6,
+    "dim_agent": 15,
+    "dim_date": 252,
+    "etl_runs": 2
+  },
+  "etl_last_run": {
+    "rows_in_batch": 2629,
+    "rows_inserted": 0,
+    "rows_updated": 0,
+    "rows_unchanged": 2629,
+    "rows_deactivated": 0
+  },
+  "feature_importances": [
+    {
+      "feature": "size_sqft",
+      "importance": 0.6915
+    },
+    {
+      "feature": "area",
+      "importance": 0.2404
+    },
+    {
+      "feature": "distance_to_downtown_km",
+      "importance": 0.061
+    },
+    {
+      "feature": "building_age_years",
+      "importance": 0.004
+    },
+    {
+      "feature": "bedrooms",
+      "importance": 0.0014
+    },
+    {
+      "feature": "property_type",
+      "importance": 0.0008
+    },
+    {
+      "feature": "furnished",
+      "importance": 0.0007
+    },
+    {
+      "feature": "floor",
+      "importance": 0.0002
+    }
+  ],
+  "generated_at": "2026-09-23T12:29:03.744019+00:00"
+}

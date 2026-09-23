@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>SouqPulse — Fair-Value &amp; Trust Engine</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="page">
+
+  <header class="hero">
+    <div class="hero-left">
+      <div class="brand-row"><span class="brand-mark"></span><span class="brand-name">souqpulse / data engineering</span></div>
+      <h1>A fair-value engine, not an average</h1>
+      <p class="tagline">Trains a model to predict what a specific listing should cost — not the area average — then uses the same model to catch re-posted duplicates' price drift, score real fraud risk, and estimate value for any listing in real time.</p>
+      <div class="hero-stats">
+        <div class="hero-stat"><span class="num" id="stat-listings">—</span><span class="label">listings processed</span></div>
+        <div class="hero-stat"><span class="num" id="stat-r2">—</span><span class="label">model R² (held-out)</span></div>
+        <div class="hero-stat"><span class="num" id="stat-mape">—</span><span class="label">model MAPE (held-out)</span></div>
+      </div>
+    </div>
+    <div class="hero-right">
+      <div class="live-panel">
+        <div class="live-panel-head">
+          <h3><span class="live-dot"></span>Live scoring feed</h3>
+          <button class="replay-btn" id="feedBtn">Play</button>
+        </div>
+        <p class="replay-caption" id="feed-caption"></p>
+        <div class="feed-scroll" id="liveFeed"></div>
+      </div>
+    </div>
+  </header>
+
+  <section class="ticker" id="ticker"></section>
+
+  <section class="zone" id="model-performance">
+    <div class="zone-head">
+      <h2>The fair-value model</h2>
+      <p>A gradient-boosted regressor trained on area, size, bedrooms, furnishing, building age, and distance to downtown — predicting what a listing should rent for, per unit, not per neighborhood.</p>
+    </div>
+    <p id="model-summary" style="margin-bottom:24px;font-size:14px;color:var(--sand-dim)"></p>
+    <div class="model-grid">
+      <div class="chart-panel">
+        <p style="font-size:12.5px;color:var(--sand-dim);margin-bottom:10px">predicted vs. actual, held-out test set</p>
+        <div style="height:260px"><canvas id="scatterChart"></canvas></div>
+      </div>
+      <div>
+        <p style="font-size:12.5px;color:var(--sand-dim);margin-bottom:14px">what the model actually weighs</p>
+        <div id="importanceRows"></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="zone" id="market-index">
+    <div class="zone-head">
+      <h2>Market leaderboard</h2>
+      <p>Average annual rent per square foot by area, queried from the warehouse: each duplicate cluster counted once, model-flagged fraud excluded.</p>
+    </div>
+    <div id="leaderboard"></div>
+  </section>
+
+  <section class="zone" id="warehouse">
+    <div class="zone-head">
+      <h2>From the warehouse</h2>
+      <p>Every run upserts into a SQLite star schema (<code>fact_listings</code> + area, property-type, agent and date dimensions). These are the analytical queries in <code>/sql</code>, run against it: the query on the left, its result on the right.</p>
+    </div>
+    <div class="query-tabs" id="queryTabs" role="tablist"></div>
+    <p class="query-desc" id="queryDesc"></p>
+    <div class="query-grid">
+      <pre class="query-sql"><code id="querySql"></code></pre>
+      <div class="table-scroll query-result"><table class="suspicious-table" id="queryTable"></table></div>
+    </div>
+  </section>
+
+  <section class="zone" id="trust-engine">
+    <div class="zone-head">
+      <h2>Duplicate trust engine</h2>
+      <p>Runs before the model ever sees the data. The same unit often gets re-posted by a different agent with a reworded title and a slightly different price — left uncleaned, it would let one physical unit's price count (and get trained on) multiple times. Detection blocks on area/type/bedrooms, gates on geo-proximity, price, and size, then scores text similarity.</p>
+    </div>
+    <div class="cluster-toolbar"><span class="cluster-count" id="cluster-count"></span></div>
+    <div class="cluster-grid" id="clusterGrid"></div>
+    <button class="replay-btn cluster-more" id="clusterMoreBtn" hidden>Show more clusters</button>
+  </section>
+
+  <section class="zone" id="fraud">
+    <div class="zone-head">
+      <h2>Fraud detection: naive rule vs. the model</h2>
+      <p>Same ground truth, two methods. "Below the area median" can't tell a small unfurnished top-floor studio from a large furnished ground-floor one; a per-unit prediction can.</p>
+    </div>
+    <div class="comparison-grid" id="comparisonGrid"></div>
+    <p style="font-size:13.5px;color:var(--gulf);margin-bottom:20px" id="comparison-delta"></p>
+    <div class="table-scroll">
+      <table class="suspicious-table">
+        <thead><tr><th>listing</th><th>area</th><th style="text-align:right">listed price</th><th style="text-align:right">predicted fair value</th><th>gap</th></tr></thead>
+        <tbody id="flaggedBody"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="zone" id="estimator">
+    <div class="zone-head">
+      <h2>Try the estimator</h2>
+      <p>Same trained model, precomputed across a grid of inputs so this runs instantly client-side. Pick an area, type, and size.</p>
+    </div>
+    <div class="estimator">
+      <div class="estimator-form">
+        <div>
+          <span class="field-label">area</span>
+          <div class="select"><select id="est-area"></select></div>
+        </div>
+        <div>
+          <span class="field-label">property type</span>
+          <div class="select"><select id="est-type"></select></div>
+        </div>
+        <div>
+          <span class="field-label">furnished</span>
+          <div class="toggle-row">
+            <button class="toggle-btn active" data-furnished="0">Unfurnished</button>
+            <button class="toggle-btn" data-furnished="1">Furnished</button>
+          </div>
+        </div>
+        <div>
+          <span class="field-label">size — <span id="est-size-label"></span></span>
+          <input type="range" id="est-size">
+        </div>
+      </div>
+      <div class="estimator-result">
+        <div class="result-label">estimated fair rent</div>
+        <div class="result-value" id="est-result-value">—</div>
+        <div class="result-sub" id="est-result-sub"></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="zone" id="pipeline-health">
+    <div class="zone-head">
+      <h2>Pipeline health</h2>
+      <p>What the warehouse actually holds, and how clean the source data was going in.</p>
+    </div>
+    <div class="health-grid">
+      <div id="qualityRows"></div>
+      <div class="warehouse-list" id="warehouseList"></div>
+    </div>
+  </section>
+
+  <footer>
+    Synthetic dataset generated for this project — not real Bayut/Dubizzle data. Every metric above is computed by the pipeline in <code>/pipeline</code>, not hand-picked; re-run <code>python run_pipeline.py --regenerate</code> to reproduce them on a fresh random dataset. See the README for methodology, the training/evaluation split, and why each stage runs in the order it does.
+  </footer>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script src="app.js"></script>
+<script>
+  Promise.all([
+    fetch("data/metrics.json").then(r => r.json()),
+    fetch("data/area_summary.json").then(r => r.json()),
+    fetch("data/duplicate_clusters.json").then(r => r.json()),
+    fetch("data/flagged_listings.json").then(r => r.json()),
+    fetch("data/fair_value_grid.json").then(r => r.json()),
+    fetch("data/test_predictions.json").then(r => r.json()),
+    fetch("data/live_feed.json").then(r => r.json()),
+    fetch("data/warehouse_queries.json").then(r => r.json()),
+  ]).then(([metrics, area_summary, duplicate_clusters, flagged_listings, fair_value_grid, test_predictions, live_feed, warehouse_queries]) => {
+    SouqPulse.init({
+      metrics, area_summary, duplicate_clusters, duplicate_clusters_total: duplicate_clusters.length,
+      flagged_listings, fair_value_grid, test_predictions, live_feed, warehouse_queries,
+    });
+  }).catch(err => {
+    document.querySelector(".page").insertAdjacentHTML("afterbegin",
+      `<p style="color:#c1573f">Couldn't load data/*.json — serve this folder over HTTP (e.g. <code>python -m http.server</code> from /frontend) rather than opening index.html directly. (${err})</p>`);
+  });
+</script>
+</body>
+</html>

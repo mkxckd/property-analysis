@@ -1,0 +1,6050 @@
+[
+  {
+    "area":"Dubai Marina",
+    "property_type":"Studio",
+    "size_sqft":380,
+    "furnished":0,
+    "predicted_price_aed_month":4027.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Studio",
+    "size_sqft":380,
+    "furnished":1,
+    "predicted_price_aed_month":4498.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Studio",
+    "size_sqft":414,
+    "furnished":0,
+    "predicted_price_aed_month":4260.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Studio",
+    "size_sqft":414,
+    "furnished":1,
+    "predicted_price_aed_month":4694.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Studio",
+    "size_sqft":448,
+    "furnished":0,
+    "predicted_price_aed_month":4318.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Studio",
+    "size_sqft":448,
+    "furnished":1,
+    "predicted_price_aed_month":4753.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Studio",
+    "size_sqft":482,
+    "furnished":0,
+    "predicted_price_aed_month":4589.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Studio",
+    "size_sqft":482,
+    "furnished":1,
+    "predicted_price_aed_month":5023.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Studio",
+    "size_sqft":516,
+    "furnished":0,
+    "predicted_price_aed_month":4643.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Studio",
+    "size_sqft":516,
+    "furnished":1,
+    "predicted_price_aed_month":5077.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Studio",
+    "size_sqft":550,
+    "furnished":0,
+    "predicted_price_aed_month":5055.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Studio",
+    "size_sqft":550,
+    "furnished":1,
+    "predicted_price_aed_month":5489.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"1BR Apartment",
+    "size_sqft":650,
+    "furnished":0,
+    "predicted_price_aed_month":5270.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"1BR Apartment",
+    "size_sqft":650,
+    "furnished":1,
+    "predicted_price_aed_month":5704.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"1BR Apartment",
+    "size_sqft":710,
+    "furnished":0,
+    "predicted_price_aed_month":6078.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"1BR Apartment",
+    "size_sqft":710,
+    "furnished":1,
+    "predicted_price_aed_month":6512.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"1BR Apartment",
+    "size_sqft":770,
+    "furnished":0,
+    "predicted_price_aed_month":6635.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"1BR Apartment",
+    "size_sqft":770,
+    "furnished":1,
+    "predicted_price_aed_month":7069.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"1BR Apartment",
+    "size_sqft":830,
+    "furnished":0,
+    "predicted_price_aed_month":7102.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"1BR Apartment",
+    "size_sqft":830,
+    "furnished":1,
+    "predicted_price_aed_month":7450.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"1BR Apartment",
+    "size_sqft":890,
+    "furnished":0,
+    "predicted_price_aed_month":7378.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"1BR Apartment",
+    "size_sqft":890,
+    "furnished":1,
+    "predicted_price_aed_month":7953.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"1BR Apartment",
+    "size_sqft":950,
+    "furnished":0,
+    "predicted_price_aed_month":8138.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"1BR Apartment",
+    "size_sqft":950,
+    "furnished":1,
+    "predicted_price_aed_month":8713.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"2BR Apartment",
+    "size_sqft":950,
+    "furnished":0,
+    "predicted_price_aed_month":8138.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"2BR Apartment",
+    "size_sqft":950,
+    "furnished":1,
+    "predicted_price_aed_month":8713.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"2BR Apartment",
+    "size_sqft":1040,
+    "furnished":0,
+    "predicted_price_aed_month":8636.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"2BR Apartment",
+    "size_sqft":1040,
+    "furnished":1,
+    "predicted_price_aed_month":9211.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"2BR Apartment",
+    "size_sqft":1130,
+    "furnished":0,
+    "predicted_price_aed_month":10098.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"2BR Apartment",
+    "size_sqft":1130,
+    "furnished":1,
+    "predicted_price_aed_month":10673.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"2BR Apartment",
+    "size_sqft":1220,
+    "furnished":0,
+    "predicted_price_aed_month":10541.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"2BR Apartment",
+    "size_sqft":1220,
+    "furnished":1,
+    "predicted_price_aed_month":11116.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"2BR Apartment",
+    "size_sqft":1310,
+    "furnished":0,
+    "predicted_price_aed_month":11093.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"2BR Apartment",
+    "size_sqft":1310,
+    "furnished":1,
+    "predicted_price_aed_month":11668.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"2BR Apartment",
+    "size_sqft":1400,
+    "furnished":0,
+    "predicted_price_aed_month":11722.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"2BR Apartment",
+    "size_sqft":1400,
+    "furnished":1,
+    "predicted_price_aed_month":12311.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"3BR Apartment",
+    "size_sqft":1400,
+    "furnished":0,
+    "predicted_price_aed_month":11712.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"3BR Apartment",
+    "size_sqft":1400,
+    "furnished":1,
+    "predicted_price_aed_month":12461.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"3BR Apartment",
+    "size_sqft":1540,
+    "furnished":0,
+    "predicted_price_aed_month":13608.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"3BR Apartment",
+    "size_sqft":1540,
+    "furnished":1,
+    "predicted_price_aed_month":14335.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"3BR Apartment",
+    "size_sqft":1680,
+    "furnished":0,
+    "predicted_price_aed_month":13857.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"3BR Apartment",
+    "size_sqft":1680,
+    "furnished":1,
+    "predicted_price_aed_month":14583.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"3BR Apartment",
+    "size_sqft":1820,
+    "furnished":0,
+    "predicted_price_aed_month":15341.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"3BR Apartment",
+    "size_sqft":1820,
+    "furnished":1,
+    "predicted_price_aed_month":16125.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"3BR Apartment",
+    "size_sqft":1960,
+    "furnished":0,
+    "predicted_price_aed_month":17121.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"3BR Apartment",
+    "size_sqft":1960,
+    "furnished":1,
+    "predicted_price_aed_month":17975.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"3BR Apartment",
+    "size_sqft":2100,
+    "furnished":0,
+    "predicted_price_aed_month":18475.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"3BR Apartment",
+    "size_sqft":2100,
+    "furnished":1,
+    "predicted_price_aed_month":19329.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Townhouse",
+    "size_sqft":1800,
+    "furnished":0,
+    "predicted_price_aed_month":15220.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Townhouse",
+    "size_sqft":1800,
+    "furnished":1,
+    "predicted_price_aed_month":15921.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Townhouse",
+    "size_sqft":1960,
+    "furnished":0,
+    "predicted_price_aed_month":17110.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Townhouse",
+    "size_sqft":1960,
+    "furnished":1,
+    "predicted_price_aed_month":17964.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Townhouse",
+    "size_sqft":2120,
+    "furnished":0,
+    "predicted_price_aed_month":18696.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Townhouse",
+    "size_sqft":2120,
+    "furnished":1,
+    "predicted_price_aed_month":19550.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Townhouse",
+    "size_sqft":2280,
+    "furnished":0,
+    "predicted_price_aed_month":19927.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Townhouse",
+    "size_sqft":2280,
+    "furnished":1,
+    "predicted_price_aed_month":20781.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Townhouse",
+    "size_sqft":2440,
+    "furnished":0,
+    "predicted_price_aed_month":21682.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Townhouse",
+    "size_sqft":2440,
+    "furnished":1,
+    "predicted_price_aed_month":22545.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Townhouse",
+    "size_sqft":2600,
+    "furnished":0,
+    "predicted_price_aed_month":23912.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Townhouse",
+    "size_sqft":2600,
+    "furnished":1,
+    "predicted_price_aed_month":24774.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Villa",
+    "size_sqft":2800,
+    "furnished":0,
+    "predicted_price_aed_month":23912.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Villa",
+    "size_sqft":2800,
+    "furnished":1,
+    "predicted_price_aed_month":24774.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Villa",
+    "size_sqft":3280,
+    "furnished":0,
+    "predicted_price_aed_month":25420.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Villa",
+    "size_sqft":3280,
+    "furnished":1,
+    "predicted_price_aed_month":26282.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Villa",
+    "size_sqft":3760,
+    "furnished":0,
+    "predicted_price_aed_month":32303.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Villa",
+    "size_sqft":3760,
+    "furnished":1,
+    "predicted_price_aed_month":33197.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Villa",
+    "size_sqft":4240,
+    "furnished":0,
+    "predicted_price_aed_month":36031.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Villa",
+    "size_sqft":4240,
+    "furnished":1,
+    "predicted_price_aed_month":36886.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Villa",
+    "size_sqft":4720,
+    "furnished":0,
+    "predicted_price_aed_month":39337.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Villa",
+    "size_sqft":4720,
+    "furnished":1,
+    "predicted_price_aed_month":40041.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Villa",
+    "size_sqft":5200,
+    "furnished":0,
+    "predicted_price_aed_month":39568.0
+  },
+  {
+    "area":"Dubai Marina",
+    "property_type":"Villa",
+    "size_sqft":5200,
+    "furnished":1,
+    "predicted_price_aed_month":43891.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Studio",
+    "size_sqft":380,
+    "furnished":0,
+    "predicted_price_aed_month":1692.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Studio",
+    "size_sqft":380,
+    "furnished":1,
+    "predicted_price_aed_month":2005.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Studio",
+    "size_sqft":414,
+    "furnished":0,
+    "predicted_price_aed_month":1924.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Studio",
+    "size_sqft":414,
+    "furnished":1,
+    "predicted_price_aed_month":2201.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Studio",
+    "size_sqft":448,
+    "furnished":0,
+    "predicted_price_aed_month":1983.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Studio",
+    "size_sqft":448,
+    "furnished":1,
+    "predicted_price_aed_month":2259.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Studio",
+    "size_sqft":482,
+    "furnished":0,
+    "predicted_price_aed_month":2253.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Studio",
+    "size_sqft":482,
+    "furnished":1,
+    "predicted_price_aed_month":2530.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Studio",
+    "size_sqft":516,
+    "furnished":0,
+    "predicted_price_aed_month":2307.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Studio",
+    "size_sqft":516,
+    "furnished":1,
+    "predicted_price_aed_month":2584.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Studio",
+    "size_sqft":550,
+    "furnished":0,
+    "predicted_price_aed_month":2719.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Studio",
+    "size_sqft":550,
+    "furnished":1,
+    "predicted_price_aed_month":2995.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"1BR Apartment",
+    "size_sqft":650,
+    "furnished":0,
+    "predicted_price_aed_month":2858.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"1BR Apartment",
+    "size_sqft":650,
+    "furnished":1,
+    "predicted_price_aed_month":3135.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"1BR Apartment",
+    "size_sqft":710,
+    "furnished":0,
+    "predicted_price_aed_month":3440.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"1BR Apartment",
+    "size_sqft":710,
+    "furnished":1,
+    "predicted_price_aed_month":3716.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"1BR Apartment",
+    "size_sqft":770,
+    "furnished":0,
+    "predicted_price_aed_month":3889.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"1BR Apartment",
+    "size_sqft":770,
+    "furnished":1,
+    "predicted_price_aed_month":4165.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"1BR Apartment",
+    "size_sqft":830,
+    "furnished":0,
+    "predicted_price_aed_month":4356.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"1BR Apartment",
+    "size_sqft":830,
+    "furnished":1,
+    "predicted_price_aed_month":4547.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"1BR Apartment",
+    "size_sqft":890,
+    "furnished":0,
+    "predicted_price_aed_month":4405.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"1BR Apartment",
+    "size_sqft":890,
+    "furnished":1,
+    "predicted_price_aed_month":4822.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"1BR Apartment",
+    "size_sqft":950,
+    "furnished":0,
+    "predicted_price_aed_month":5165.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"1BR Apartment",
+    "size_sqft":950,
+    "furnished":1,
+    "predicted_price_aed_month":5582.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"2BR Apartment",
+    "size_sqft":950,
+    "furnished":0,
+    "predicted_price_aed_month":5165.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"2BR Apartment",
+    "size_sqft":950,
+    "furnished":1,
+    "predicted_price_aed_month":5582.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"2BR Apartment",
+    "size_sqft":1040,
+    "furnished":0,
+    "predicted_price_aed_month":5325.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"2BR Apartment",
+    "size_sqft":1040,
+    "furnished":1,
+    "predicted_price_aed_month":5743.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"2BR Apartment",
+    "size_sqft":1130,
+    "furnished":0,
+    "predicted_price_aed_month":6428.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"2BR Apartment",
+    "size_sqft":1130,
+    "furnished":1,
+    "predicted_price_aed_month":6846.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"2BR Apartment",
+    "size_sqft":1220,
+    "furnished":0,
+    "predicted_price_aed_month":6428.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"2BR Apartment",
+    "size_sqft":1220,
+    "furnished":1,
+    "predicted_price_aed_month":6846.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"2BR Apartment",
+    "size_sqft":1310,
+    "furnished":0,
+    "predicted_price_aed_month":6980.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"2BR Apartment",
+    "size_sqft":1310,
+    "furnished":1,
+    "predicted_price_aed_month":7398.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"2BR Apartment",
+    "size_sqft":1400,
+    "furnished":0,
+    "predicted_price_aed_month":7610.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"2BR Apartment",
+    "size_sqft":1400,
+    "furnished":1,
+    "predicted_price_aed_month":8041.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"3BR Apartment",
+    "size_sqft":1400,
+    "furnished":0,
+    "predicted_price_aed_month":7599.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"3BR Apartment",
+    "size_sqft":1400,
+    "furnished":1,
+    "predicted_price_aed_month":8051.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"3BR Apartment",
+    "size_sqft":1540,
+    "furnished":0,
+    "predicted_price_aed_month":8545.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"3BR Apartment",
+    "size_sqft":1540,
+    "furnished":1,
+    "predicted_price_aed_month":8974.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"3BR Apartment",
+    "size_sqft":1680,
+    "furnished":0,
+    "predicted_price_aed_month":8794.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"3BR Apartment",
+    "size_sqft":1680,
+    "furnished":1,
+    "predicted_price_aed_month":9223.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"3BR Apartment",
+    "size_sqft":1820,
+    "furnished":0,
+    "predicted_price_aed_month":9690.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"3BR Apartment",
+    "size_sqft":1820,
+    "furnished":1,
+    "predicted_price_aed_month":10176.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"3BR Apartment",
+    "size_sqft":1960,
+    "furnished":0,
+    "predicted_price_aed_month":10204.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"3BR Apartment",
+    "size_sqft":1960,
+    "furnished":1,
+    "predicted_price_aed_month":10760.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"3BR Apartment",
+    "size_sqft":2100,
+    "furnished":0,
+    "predicted_price_aed_month":11024.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"3BR Apartment",
+    "size_sqft":2100,
+    "furnished":1,
+    "predicted_price_aed_month":11580.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Townhouse",
+    "size_sqft":1800,
+    "furnished":0,
+    "predicted_price_aed_month":9569.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Townhouse",
+    "size_sqft":1800,
+    "furnished":1,
+    "predicted_price_aed_month":9973.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Townhouse",
+    "size_sqft":1960,
+    "furnished":0,
+    "predicted_price_aed_month":10193.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Townhouse",
+    "size_sqft":1960,
+    "furnished":1,
+    "predicted_price_aed_month":10749.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Townhouse",
+    "size_sqft":2120,
+    "furnished":0,
+    "predicted_price_aed_month":11013.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Townhouse",
+    "size_sqft":2120,
+    "furnished":1,
+    "predicted_price_aed_month":11569.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Townhouse",
+    "size_sqft":2280,
+    "furnished":0,
+    "predicted_price_aed_month":12244.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Townhouse",
+    "size_sqft":2280,
+    "furnished":1,
+    "predicted_price_aed_month":12800.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Townhouse",
+    "size_sqft":2440,
+    "furnished":0,
+    "predicted_price_aed_month":13341.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Townhouse",
+    "size_sqft":2440,
+    "furnished":1,
+    "predicted_price_aed_month":13906.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Townhouse",
+    "size_sqft":2600,
+    "furnished":0,
+    "predicted_price_aed_month":15546.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Townhouse",
+    "size_sqft":2600,
+    "furnished":1,
+    "predicted_price_aed_month":16111.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Villa",
+    "size_sqft":2800,
+    "furnished":0,
+    "predicted_price_aed_month":15546.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Villa",
+    "size_sqft":2800,
+    "furnished":1,
+    "predicted_price_aed_month":16111.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Villa",
+    "size_sqft":3280,
+    "furnished":0,
+    "predicted_price_aed_month":17077.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Villa",
+    "size_sqft":3280,
+    "furnished":1,
+    "predicted_price_aed_month":17641.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Villa",
+    "size_sqft":3760,
+    "furnished":0,
+    "predicted_price_aed_month":19146.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Villa",
+    "size_sqft":3760,
+    "furnished":1,
+    "predicted_price_aed_month":19743.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Villa",
+    "size_sqft":4240,
+    "furnished":0,
+    "predicted_price_aed_month":21048.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Villa",
+    "size_sqft":4240,
+    "furnished":1,
+    "predicted_price_aed_month":21606.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Villa",
+    "size_sqft":4720,
+    "furnished":0,
+    "predicted_price_aed_month":23737.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Villa",
+    "size_sqft":4720,
+    "furnished":1,
+    "predicted_price_aed_month":24143.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Villa",
+    "size_sqft":5200,
+    "furnished":0,
+    "predicted_price_aed_month":25031.0
+  },
+  {
+    "area":"Jumeirah Village Circle",
+    "property_type":"Villa",
+    "size_sqft":5200,
+    "furnished":1,
+    "predicted_price_aed_month":29619.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Studio",
+    "size_sqft":380,
+    "furnished":0,
+    "predicted_price_aed_month":3306.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Studio",
+    "size_sqft":380,
+    "furnished":1,
+    "predicted_price_aed_month":3568.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Studio",
+    "size_sqft":414,
+    "furnished":0,
+    "predicted_price_aed_month":3539.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Studio",
+    "size_sqft":414,
+    "furnished":1,
+    "predicted_price_aed_month":3764.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Studio",
+    "size_sqft":448,
+    "furnished":0,
+    "predicted_price_aed_month":3597.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Studio",
+    "size_sqft":448,
+    "furnished":1,
+    "predicted_price_aed_month":3822.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Studio",
+    "size_sqft":482,
+    "furnished":0,
+    "predicted_price_aed_month":3891.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Studio",
+    "size_sqft":482,
+    "furnished":1,
+    "predicted_price_aed_month":4116.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Studio",
+    "size_sqft":516,
+    "furnished":0,
+    "predicted_price_aed_month":3998.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Studio",
+    "size_sqft":516,
+    "furnished":1,
+    "predicted_price_aed_month":4223.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Studio",
+    "size_sqft":550,
+    "furnished":0,
+    "predicted_price_aed_month":4464.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Studio",
+    "size_sqft":550,
+    "furnished":1,
+    "predicted_price_aed_month":4689.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"1BR Apartment",
+    "size_sqft":650,
+    "furnished":0,
+    "predicted_price_aed_month":4707.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"1BR Apartment",
+    "size_sqft":650,
+    "furnished":1,
+    "predicted_price_aed_month":4974.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"1BR Apartment",
+    "size_sqft":710,
+    "furnished":0,
+    "predicted_price_aed_month":5371.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"1BR Apartment",
+    "size_sqft":710,
+    "furnished":1,
+    "predicted_price_aed_month":5639.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"1BR Apartment",
+    "size_sqft":770,
+    "furnished":0,
+    "predicted_price_aed_month":5989.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"1BR Apartment",
+    "size_sqft":770,
+    "furnished":1,
+    "predicted_price_aed_month":6257.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"1BR Apartment",
+    "size_sqft":830,
+    "furnished":0,
+    "predicted_price_aed_month":6582.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"1BR Apartment",
+    "size_sqft":830,
+    "furnished":1,
+    "predicted_price_aed_month":6764.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"1BR Apartment",
+    "size_sqft":890,
+    "furnished":0,
+    "predicted_price_aed_month":6631.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"1BR Apartment",
+    "size_sqft":890,
+    "furnished":1,
+    "predicted_price_aed_month":7197.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"1BR Apartment",
+    "size_sqft":950,
+    "furnished":0,
+    "predicted_price_aed_month":7556.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"1BR Apartment",
+    "size_sqft":950,
+    "furnished":1,
+    "predicted_price_aed_month":8122.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"2BR Apartment",
+    "size_sqft":950,
+    "furnished":0,
+    "predicted_price_aed_month":7556.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"2BR Apartment",
+    "size_sqft":950,
+    "furnished":1,
+    "predicted_price_aed_month":8122.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"2BR Apartment",
+    "size_sqft":1040,
+    "furnished":0,
+    "predicted_price_aed_month":7716.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"2BR Apartment",
+    "size_sqft":1040,
+    "furnished":1,
+    "predicted_price_aed_month":8283.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"2BR Apartment",
+    "size_sqft":1130,
+    "furnished":0,
+    "predicted_price_aed_month":8820.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"2BR Apartment",
+    "size_sqft":1130,
+    "furnished":1,
+    "predicted_price_aed_month":9386.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"2BR Apartment",
+    "size_sqft":1220,
+    "furnished":0,
+    "predicted_price_aed_month":8820.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"2BR Apartment",
+    "size_sqft":1220,
+    "furnished":1,
+    "predicted_price_aed_month":9386.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"2BR Apartment",
+    "size_sqft":1310,
+    "furnished":0,
+    "predicted_price_aed_month":9372.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"2BR Apartment",
+    "size_sqft":1310,
+    "furnished":1,
+    "predicted_price_aed_month":9938.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"2BR Apartment",
+    "size_sqft":1400,
+    "furnished":0,
+    "predicted_price_aed_month":10667.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"2BR Apartment",
+    "size_sqft":1400,
+    "furnished":1,
+    "predicted_price_aed_month":11247.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"3BR Apartment",
+    "size_sqft":1400,
+    "furnished":0,
+    "predicted_price_aed_month":11021.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"3BR Apartment",
+    "size_sqft":1400,
+    "furnished":1,
+    "predicted_price_aed_month":11621.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"3BR Apartment",
+    "size_sqft":1540,
+    "furnished":0,
+    "predicted_price_aed_month":11992.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"3BR Apartment",
+    "size_sqft":1540,
+    "furnished":1,
+    "predicted_price_aed_month":12570.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"3BR Apartment",
+    "size_sqft":1680,
+    "furnished":0,
+    "predicted_price_aed_month":12754.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"3BR Apartment",
+    "size_sqft":1680,
+    "furnished":1,
+    "predicted_price_aed_month":13331.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"3BR Apartment",
+    "size_sqft":1820,
+    "furnished":0,
+    "predicted_price_aed_month":13766.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"3BR Apartment",
+    "size_sqft":1820,
+    "furnished":1,
+    "predicted_price_aed_month":14401.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"3BR Apartment",
+    "size_sqft":1960,
+    "furnished":0,
+    "predicted_price_aed_month":14678.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"3BR Apartment",
+    "size_sqft":1960,
+    "furnished":1,
+    "predicted_price_aed_month":15383.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"3BR Apartment",
+    "size_sqft":2100,
+    "furnished":0,
+    "predicted_price_aed_month":15445.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"3BR Apartment",
+    "size_sqft":2100,
+    "furnished":1,
+    "predicted_price_aed_month":16150.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Townhouse",
+    "size_sqft":1800,
+    "furnished":0,
+    "predicted_price_aed_month":14021.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Townhouse",
+    "size_sqft":1800,
+    "furnished":1,
+    "predicted_price_aed_month":14573.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Townhouse",
+    "size_sqft":1960,
+    "furnished":0,
+    "predicted_price_aed_month":15042.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Townhouse",
+    "size_sqft":1960,
+    "furnished":1,
+    "predicted_price_aed_month":15747.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Townhouse",
+    "size_sqft":2120,
+    "furnished":0,
+    "predicted_price_aed_month":15833.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Townhouse",
+    "size_sqft":2120,
+    "furnished":1,
+    "predicted_price_aed_month":16538.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Townhouse",
+    "size_sqft":2280,
+    "furnished":0,
+    "predicted_price_aed_month":18097.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Townhouse",
+    "size_sqft":2280,
+    "furnished":1,
+    "predicted_price_aed_month":18801.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Townhouse",
+    "size_sqft":2440,
+    "furnished":0,
+    "predicted_price_aed_month":19916.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Townhouse",
+    "size_sqft":2440,
+    "furnished":1,
+    "predicted_price_aed_month":21017.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Townhouse",
+    "size_sqft":2600,
+    "furnished":0,
+    "predicted_price_aed_month":23559.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Townhouse",
+    "size_sqft":2600,
+    "furnished":1,
+    "predicted_price_aed_month":24661.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Villa",
+    "size_sqft":2800,
+    "furnished":0,
+    "predicted_price_aed_month":23559.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Villa",
+    "size_sqft":2800,
+    "furnished":1,
+    "predicted_price_aed_month":24661.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Villa",
+    "size_sqft":3280,
+    "furnished":0,
+    "predicted_price_aed_month":27393.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Villa",
+    "size_sqft":3280,
+    "furnished":1,
+    "predicted_price_aed_month":28494.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Villa",
+    "size_sqft":3760,
+    "furnished":0,
+    "predicted_price_aed_month":32086.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Villa",
+    "size_sqft":3760,
+    "furnished":1,
+    "predicted_price_aed_month":33220.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Villa",
+    "size_sqft":4240,
+    "furnished":0,
+    "predicted_price_aed_month":34199.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Villa",
+    "size_sqft":4240,
+    "furnished":1,
+    "predicted_price_aed_month":35293.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Villa",
+    "size_sqft":4720,
+    "furnished":0,
+    "predicted_price_aed_month":37398.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Villa",
+    "size_sqft":4720,
+    "furnished":1,
+    "predicted_price_aed_month":38544.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Villa",
+    "size_sqft":5200,
+    "furnished":0,
+    "predicted_price_aed_month":39591.0
+  },
+  {
+    "area":"Business Bay",
+    "property_type":"Villa",
+    "size_sqft":5200,
+    "furnished":1,
+    "predicted_price_aed_month":44026.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Studio",
+    "size_sqft":380,
+    "furnished":0,
+    "predicted_price_aed_month":5618.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Studio",
+    "size_sqft":380,
+    "furnished":1,
+    "predicted_price_aed_month":7864.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Studio",
+    "size_sqft":414,
+    "furnished":0,
+    "predicted_price_aed_month":5851.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Studio",
+    "size_sqft":414,
+    "furnished":1,
+    "predicted_price_aed_month":8060.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Studio",
+    "size_sqft":448,
+    "furnished":0,
+    "predicted_price_aed_month":5909.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Studio",
+    "size_sqft":448,
+    "furnished":1,
+    "predicted_price_aed_month":8118.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Studio",
+    "size_sqft":482,
+    "furnished":0,
+    "predicted_price_aed_month":6300.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Studio",
+    "size_sqft":482,
+    "furnished":1,
+    "predicted_price_aed_month":8509.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Studio",
+    "size_sqft":516,
+    "furnished":0,
+    "predicted_price_aed_month":6459.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Studio",
+    "size_sqft":516,
+    "furnished":1,
+    "predicted_price_aed_month":8668.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Studio",
+    "size_sqft":550,
+    "furnished":0,
+    "predicted_price_aed_month":7140.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Studio",
+    "size_sqft":550,
+    "furnished":1,
+    "predicted_price_aed_month":9349.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"1BR Apartment",
+    "size_sqft":650,
+    "furnished":0,
+    "predicted_price_aed_month":7426.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"1BR Apartment",
+    "size_sqft":650,
+    "furnished":1,
+    "predicted_price_aed_month":9677.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"1BR Apartment",
+    "size_sqft":710,
+    "furnished":0,
+    "predicted_price_aed_month":8372.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"1BR Apartment",
+    "size_sqft":710,
+    "furnished":1,
+    "predicted_price_aed_month":10623.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"1BR Apartment",
+    "size_sqft":770,
+    "furnished":0,
+    "predicted_price_aed_month":9194.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"1BR Apartment",
+    "size_sqft":770,
+    "furnished":1,
+    "predicted_price_aed_month":11445.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"1BR Apartment",
+    "size_sqft":830,
+    "furnished":0,
+    "predicted_price_aed_month":9872.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"1BR Apartment",
+    "size_sqft":830,
+    "furnished":1,
+    "predicted_price_aed_month":12038.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"1BR Apartment",
+    "size_sqft":890,
+    "furnished":0,
+    "predicted_price_aed_month":9921.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"1BR Apartment",
+    "size_sqft":890,
+    "furnished":1,
+    "predicted_price_aed_month":12471.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"1BR Apartment",
+    "size_sqft":950,
+    "furnished":0,
+    "predicted_price_aed_month":11163.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"1BR Apartment",
+    "size_sqft":950,
+    "furnished":1,
+    "predicted_price_aed_month":13713.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"2BR Apartment",
+    "size_sqft":950,
+    "furnished":0,
+    "predicted_price_aed_month":11163.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"2BR Apartment",
+    "size_sqft":950,
+    "furnished":1,
+    "predicted_price_aed_month":13713.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"2BR Apartment",
+    "size_sqft":1040,
+    "furnished":0,
+    "predicted_price_aed_month":11323.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"2BR Apartment",
+    "size_sqft":1040,
+    "furnished":1,
+    "predicted_price_aed_month":13873.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"2BR Apartment",
+    "size_sqft":1130,
+    "furnished":0,
+    "predicted_price_aed_month":13089.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"2BR Apartment",
+    "size_sqft":1130,
+    "furnished":1,
+    "predicted_price_aed_month":15639.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"2BR Apartment",
+    "size_sqft":1220,
+    "furnished":0,
+    "predicted_price_aed_month":13089.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"2BR Apartment",
+    "size_sqft":1220,
+    "furnished":1,
+    "predicted_price_aed_month":15639.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"2BR Apartment",
+    "size_sqft":1310,
+    "furnished":0,
+    "predicted_price_aed_month":14052.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"2BR Apartment",
+    "size_sqft":1310,
+    "furnished":1,
+    "predicted_price_aed_month":16602.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"2BR Apartment",
+    "size_sqft":1400,
+    "furnished":0,
+    "predicted_price_aed_month":15665.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"2BR Apartment",
+    "size_sqft":1400,
+    "furnished":1,
+    "predicted_price_aed_month":18200.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"3BR Apartment",
+    "size_sqft":1400,
+    "furnished":0,
+    "predicted_price_aed_month":15905.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"3BR Apartment",
+    "size_sqft":1400,
+    "furnished":1,
+    "predicted_price_aed_month":18460.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"3BR Apartment",
+    "size_sqft":1540,
+    "furnished":0,
+    "predicted_price_aed_month":17065.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"3BR Apartment",
+    "size_sqft":1540,
+    "furnished":1,
+    "predicted_price_aed_month":19598.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"3BR Apartment",
+    "size_sqft":1680,
+    "furnished":0,
+    "predicted_price_aed_month":17827.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"3BR Apartment",
+    "size_sqft":1680,
+    "furnished":1,
+    "predicted_price_aed_month":20360.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"3BR Apartment",
+    "size_sqft":1820,
+    "furnished":0,
+    "predicted_price_aed_month":19919.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"3BR Apartment",
+    "size_sqft":1820,
+    "furnished":1,
+    "predicted_price_aed_month":22510.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"3BR Apartment",
+    "size_sqft":1960,
+    "furnished":0,
+    "predicted_price_aed_month":20584.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"3BR Apartment",
+    "size_sqft":1960,
+    "furnished":1,
+    "predicted_price_aed_month":23244.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"3BR Apartment",
+    "size_sqft":2100,
+    "furnished":0,
+    "predicted_price_aed_month":22435.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"3BR Apartment",
+    "size_sqft":2100,
+    "furnished":1,
+    "predicted_price_aed_month":25095.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Townhouse",
+    "size_sqft":1800,
+    "furnished":0,
+    "predicted_price_aed_month":19699.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Townhouse",
+    "size_sqft":1800,
+    "furnished":1,
+    "predicted_price_aed_month":22207.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Townhouse",
+    "size_sqft":1960,
+    "furnished":0,
+    "predicted_price_aed_month":20464.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Townhouse",
+    "size_sqft":1960,
+    "furnished":1,
+    "predicted_price_aed_month":23124.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Townhouse",
+    "size_sqft":2120,
+    "furnished":0,
+    "predicted_price_aed_month":22338.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Townhouse",
+    "size_sqft":2120,
+    "furnished":1,
+    "predicted_price_aed_month":24998.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Townhouse",
+    "size_sqft":2280,
+    "furnished":0,
+    "predicted_price_aed_month":23161.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Townhouse",
+    "size_sqft":2280,
+    "furnished":1,
+    "predicted_price_aed_month":25822.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Townhouse",
+    "size_sqft":2440,
+    "furnished":0,
+    "predicted_price_aed_month":26052.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Townhouse",
+    "size_sqft":2440,
+    "furnished":1,
+    "predicted_price_aed_month":29038.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Townhouse",
+    "size_sqft":2600,
+    "furnished":0,
+    "predicted_price_aed_month":31655.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Townhouse",
+    "size_sqft":2600,
+    "furnished":1,
+    "predicted_price_aed_month":34641.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Villa",
+    "size_sqft":2800,
+    "furnished":0,
+    "predicted_price_aed_month":32234.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Villa",
+    "size_sqft":2800,
+    "furnished":1,
+    "predicted_price_aed_month":35220.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Villa",
+    "size_sqft":3280,
+    "furnished":0,
+    "predicted_price_aed_month":36812.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Villa",
+    "size_sqft":3280,
+    "furnished":1,
+    "predicted_price_aed_month":39798.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Villa",
+    "size_sqft":3760,
+    "furnished":0,
+    "predicted_price_aed_month":41766.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Villa",
+    "size_sqft":3760,
+    "furnished":1,
+    "predicted_price_aed_month":44785.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Villa",
+    "size_sqft":4240,
+    "furnished":0,
+    "predicted_price_aed_month":44525.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Villa",
+    "size_sqft":4240,
+    "furnished":1,
+    "predicted_price_aed_month":47520.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Villa",
+    "size_sqft":4720,
+    "furnished":0,
+    "predicted_price_aed_month":48447.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Villa",
+    "size_sqft":4720,
+    "furnished":1,
+    "predicted_price_aed_month":51136.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Villa",
+    "size_sqft":5200,
+    "furnished":0,
+    "predicted_price_aed_month":53154.0
+  },
+  {
+    "area":"Downtown Dubai",
+    "property_type":"Villa",
+    "size_sqft":5200,
+    "furnished":1,
+    "predicted_price_aed_month":58473.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Studio",
+    "size_sqft":380,
+    "furnished":0,
+    "predicted_price_aed_month":3361.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Studio",
+    "size_sqft":380,
+    "furnished":1,
+    "predicted_price_aed_month":3760.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Studio",
+    "size_sqft":414,
+    "furnished":0,
+    "predicted_price_aed_month":3594.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Studio",
+    "size_sqft":414,
+    "furnished":1,
+    "predicted_price_aed_month":3956.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Studio",
+    "size_sqft":448,
+    "furnished":0,
+    "predicted_price_aed_month":3652.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Studio",
+    "size_sqft":448,
+    "furnished":1,
+    "predicted_price_aed_month":4015.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Studio",
+    "size_sqft":482,
+    "furnished":0,
+    "predicted_price_aed_month":3923.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Studio",
+    "size_sqft":482,
+    "furnished":1,
+    "predicted_price_aed_month":4285.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Studio",
+    "size_sqft":516,
+    "furnished":0,
+    "predicted_price_aed_month":4008.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Studio",
+    "size_sqft":516,
+    "furnished":1,
+    "predicted_price_aed_month":4370.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Studio",
+    "size_sqft":550,
+    "furnished":0,
+    "predicted_price_aed_month":4420.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Studio",
+    "size_sqft":550,
+    "furnished":1,
+    "predicted_price_aed_month":4782.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"1BR Apartment",
+    "size_sqft":650,
+    "furnished":0,
+    "predicted_price_aed_month":4559.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"1BR Apartment",
+    "size_sqft":650,
+    "furnished":1,
+    "predicted_price_aed_month":4921.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"1BR Apartment",
+    "size_sqft":710,
+    "furnished":0,
+    "predicted_price_aed_month":5277.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"1BR Apartment",
+    "size_sqft":710,
+    "furnished":1,
+    "predicted_price_aed_month":5639.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"1BR Apartment",
+    "size_sqft":770,
+    "furnished":0,
+    "predicted_price_aed_month":5665.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"1BR Apartment",
+    "size_sqft":770,
+    "furnished":1,
+    "predicted_price_aed_month":6027.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"1BR Apartment",
+    "size_sqft":830,
+    "furnished":0,
+    "predicted_price_aed_month":6166.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"1BR Apartment",
+    "size_sqft":830,
+    "furnished":1,
+    "predicted_price_aed_month":6443.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"1BR Apartment",
+    "size_sqft":890,
+    "furnished":0,
+    "predicted_price_aed_month":6313.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"1BR Apartment",
+    "size_sqft":890,
+    "furnished":1,
+    "predicted_price_aed_month":6816.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"1BR Apartment",
+    "size_sqft":950,
+    "furnished":0,
+    "predicted_price_aed_month":7073.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"1BR Apartment",
+    "size_sqft":950,
+    "furnished":1,
+    "predicted_price_aed_month":7576.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"2BR Apartment",
+    "size_sqft":950,
+    "furnished":0,
+    "predicted_price_aed_month":7073.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"2BR Apartment",
+    "size_sqft":950,
+    "furnished":1,
+    "predicted_price_aed_month":7576.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"2BR Apartment",
+    "size_sqft":1040,
+    "furnished":0,
+    "predicted_price_aed_month":7233.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"2BR Apartment",
+    "size_sqft":1040,
+    "furnished":1,
+    "predicted_price_aed_month":7737.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"2BR Apartment",
+    "size_sqft":1130,
+    "furnished":0,
+    "predicted_price_aed_month":8387.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"2BR Apartment",
+    "size_sqft":1130,
+    "furnished":1,
+    "predicted_price_aed_month":8890.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"2BR Apartment",
+    "size_sqft":1220,
+    "furnished":0,
+    "predicted_price_aed_month":8962.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"2BR Apartment",
+    "size_sqft":1220,
+    "furnished":1,
+    "predicted_price_aed_month":9465.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"2BR Apartment",
+    "size_sqft":1310,
+    "furnished":0,
+    "predicted_price_aed_month":9514.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"2BR Apartment",
+    "size_sqft":1310,
+    "furnished":1,
+    "predicted_price_aed_month":10017.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"2BR Apartment",
+    "size_sqft":1400,
+    "furnished":0,
+    "predicted_price_aed_month":10184.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"2BR Apartment",
+    "size_sqft":1400,
+    "furnished":1,
+    "predicted_price_aed_month":10701.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"3BR Apartment",
+    "size_sqft":1400,
+    "furnished":0,
+    "predicted_price_aed_month":10209.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"3BR Apartment",
+    "size_sqft":1400,
+    "furnished":1,
+    "predicted_price_aed_month":10746.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"3BR Apartment",
+    "size_sqft":1540,
+    "furnished":0,
+    "predicted_price_aed_month":11352.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"3BR Apartment",
+    "size_sqft":1540,
+    "furnished":1,
+    "predicted_price_aed_month":11866.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"3BR Apartment",
+    "size_sqft":1680,
+    "furnished":0,
+    "predicted_price_aed_month":11600.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"3BR Apartment",
+    "size_sqft":1680,
+    "furnished":1,
+    "predicted_price_aed_month":12115.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"3BR Apartment",
+    "size_sqft":1820,
+    "furnished":0,
+    "predicted_price_aed_month":12943.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"3BR Apartment",
+    "size_sqft":1820,
+    "furnished":1,
+    "predicted_price_aed_month":13662.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"3BR Apartment",
+    "size_sqft":1960,
+    "furnished":0,
+    "predicted_price_aed_month":14165.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"3BR Apartment",
+    "size_sqft":1960,
+    "furnished":1,
+    "predicted_price_aed_month":14954.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"3BR Apartment",
+    "size_sqft":2100,
+    "furnished":0,
+    "predicted_price_aed_month":15105.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"3BR Apartment",
+    "size_sqft":2100,
+    "furnished":1,
+    "predicted_price_aed_month":15893.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Townhouse",
+    "size_sqft":1800,
+    "furnished":0,
+    "predicted_price_aed_month":12787.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Townhouse",
+    "size_sqft":1800,
+    "furnished":1,
+    "predicted_price_aed_month":13423.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Townhouse",
+    "size_sqft":1960,
+    "furnished":0,
+    "predicted_price_aed_month":14118.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Townhouse",
+    "size_sqft":1960,
+    "furnished":1,
+    "predicted_price_aed_month":14907.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Townhouse",
+    "size_sqft":2120,
+    "furnished":0,
+    "predicted_price_aed_month":15058.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Townhouse",
+    "size_sqft":2120,
+    "furnished":1,
+    "predicted_price_aed_month":15846.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Townhouse",
+    "size_sqft":2280,
+    "furnished":0,
+    "predicted_price_aed_month":16289.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Townhouse",
+    "size_sqft":2280,
+    "furnished":1,
+    "predicted_price_aed_month":17077.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Townhouse",
+    "size_sqft":2440,
+    "furnished":0,
+    "predicted_price_aed_month":17828.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Townhouse",
+    "size_sqft":2440,
+    "furnished":1,
+    "predicted_price_aed_month":18625.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Townhouse",
+    "size_sqft":2600,
+    "furnished":0,
+    "predicted_price_aed_month":20174.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Townhouse",
+    "size_sqft":2600,
+    "furnished":1,
+    "predicted_price_aed_month":20971.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Villa",
+    "size_sqft":2800,
+    "furnished":0,
+    "predicted_price_aed_month":20640.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Villa",
+    "size_sqft":2800,
+    "furnished":1,
+    "predicted_price_aed_month":21438.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Villa",
+    "size_sqft":3280,
+    "furnished":0,
+    "predicted_price_aed_month":22129.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Villa",
+    "size_sqft":3280,
+    "furnished":1,
+    "predicted_price_aed_month":22926.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Villa",
+    "size_sqft":3760,
+    "furnished":0,
+    "predicted_price_aed_month":25203.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Villa",
+    "size_sqft":3760,
+    "furnished":1,
+    "predicted_price_aed_month":26033.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Villa",
+    "size_sqft":4240,
+    "furnished":0,
+    "predicted_price_aed_month":28535.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Villa",
+    "size_sqft":4240,
+    "furnished":1,
+    "predicted_price_aed_month":29325.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Villa",
+    "size_sqft":4720,
+    "furnished":0,
+    "predicted_price_aed_month":32068.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Villa",
+    "size_sqft":4720,
+    "furnished":1,
+    "predicted_price_aed_month":32706.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Villa",
+    "size_sqft":5200,
+    "furnished":0,
+    "predicted_price_aed_month":34164.0
+  },
+  {
+    "area":"Jumeirah Lake Towers",
+    "property_type":"Villa",
+    "size_sqft":5200,
+    "furnished":1,
+    "predicted_price_aed_month":38422.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Studio",
+    "size_sqft":380,
+    "furnished":0,
+    "predicted_price_aed_month":2909.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Studio",
+    "size_sqft":380,
+    "furnished":1,
+    "predicted_price_aed_month":3018.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Studio",
+    "size_sqft":414,
+    "furnished":0,
+    "predicted_price_aed_month":3108.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Studio",
+    "size_sqft":414,
+    "furnished":1,
+    "predicted_price_aed_month":3181.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Studio",
+    "size_sqft":448,
+    "furnished":0,
+    "predicted_price_aed_month":3167.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Studio",
+    "size_sqft":448,
+    "furnished":1,
+    "predicted_price_aed_month":3239.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Studio",
+    "size_sqft":482,
+    "furnished":0,
+    "predicted_price_aed_month":3437.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Studio",
+    "size_sqft":482,
+    "furnished":1,
+    "predicted_price_aed_month":3509.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Studio",
+    "size_sqft":516,
+    "furnished":0,
+    "predicted_price_aed_month":3491.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Studio",
+    "size_sqft":516,
+    "furnished":1,
+    "predicted_price_aed_month":3564.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Studio",
+    "size_sqft":550,
+    "furnished":0,
+    "predicted_price_aed_month":3903.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Studio",
+    "size_sqft":550,
+    "furnished":1,
+    "predicted_price_aed_month":3975.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"1BR Apartment",
+    "size_sqft":650,
+    "furnished":0,
+    "predicted_price_aed_month":4042.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"1BR Apartment",
+    "size_sqft":650,
+    "furnished":1,
+    "predicted_price_aed_month":4114.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"1BR Apartment",
+    "size_sqft":710,
+    "furnished":0,
+    "predicted_price_aed_month":4624.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"1BR Apartment",
+    "size_sqft":710,
+    "furnished":1,
+    "predicted_price_aed_month":4696.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"1BR Apartment",
+    "size_sqft":770,
+    "furnished":0,
+    "predicted_price_aed_month":5073.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"1BR Apartment",
+    "size_sqft":770,
+    "furnished":1,
+    "predicted_price_aed_month":5145.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"1BR Apartment",
+    "size_sqft":830,
+    "furnished":0,
+    "predicted_price_aed_month":5540.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"1BR Apartment",
+    "size_sqft":830,
+    "furnished":1,
+    "predicted_price_aed_month":5526.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"1BR Apartment",
+    "size_sqft":890,
+    "furnished":0,
+    "predicted_price_aed_month":5589.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"1BR Apartment",
+    "size_sqft":890,
+    "furnished":1,
+    "predicted_price_aed_month":5802.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"1BR Apartment",
+    "size_sqft":950,
+    "furnished":0,
+    "predicted_price_aed_month":6595.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"1BR Apartment",
+    "size_sqft":950,
+    "furnished":1,
+    "predicted_price_aed_month":6808.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"2BR Apartment",
+    "size_sqft":950,
+    "furnished":0,
+    "predicted_price_aed_month":6663.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"2BR Apartment",
+    "size_sqft":950,
+    "furnished":1,
+    "predicted_price_aed_month":6876.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"2BR Apartment",
+    "size_sqft":1040,
+    "furnished":0,
+    "predicted_price_aed_month":6938.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"2BR Apartment",
+    "size_sqft":1040,
+    "furnished":1,
+    "predicted_price_aed_month":7151.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"2BR Apartment",
+    "size_sqft":1130,
+    "furnished":0,
+    "predicted_price_aed_month":8215.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"2BR Apartment",
+    "size_sqft":1130,
+    "furnished":1,
+    "predicted_price_aed_month":8429.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"2BR Apartment",
+    "size_sqft":1220,
+    "furnished":0,
+    "predicted_price_aed_month":8309.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"2BR Apartment",
+    "size_sqft":1220,
+    "furnished":1,
+    "predicted_price_aed_month":8522.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"2BR Apartment",
+    "size_sqft":1310,
+    "furnished":0,
+    "predicted_price_aed_month":8861.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"2BR Apartment",
+    "size_sqft":1310,
+    "furnished":1,
+    "predicted_price_aed_month":9074.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"2BR Apartment",
+    "size_sqft":1400,
+    "furnished":0,
+    "predicted_price_aed_month":9490.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"2BR Apartment",
+    "size_sqft":1400,
+    "furnished":1,
+    "predicted_price_aed_month":9717.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"3BR Apartment",
+    "size_sqft":1400,
+    "furnished":0,
+    "predicted_price_aed_month":9412.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"3BR Apartment",
+    "size_sqft":1400,
+    "furnished":1,
+    "predicted_price_aed_month":9659.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"3BR Apartment",
+    "size_sqft":1540,
+    "furnished":0,
+    "predicted_price_aed_month":10413.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"3BR Apartment",
+    "size_sqft":1540,
+    "furnished":1,
+    "predicted_price_aed_month":10601.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"3BR Apartment",
+    "size_sqft":1680,
+    "furnished":0,
+    "predicted_price_aed_month":10782.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"3BR Apartment",
+    "size_sqft":1680,
+    "furnished":1,
+    "predicted_price_aed_month":10970.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"3BR Apartment",
+    "size_sqft":1820,
+    "furnished":0,
+    "predicted_price_aed_month":12048.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"3BR Apartment",
+    "size_sqft":1820,
+    "furnished":1,
+    "predicted_price_aed_month":12294.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"3BR Apartment",
+    "size_sqft":1960,
+    "furnished":0,
+    "predicted_price_aed_month":12562.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"3BR Apartment",
+    "size_sqft":1960,
+    "furnished":1,
+    "predicted_price_aed_month":12878.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"3BR Apartment",
+    "size_sqft":2100,
+    "furnished":0,
+    "predicted_price_aed_month":13422.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"3BR Apartment",
+    "size_sqft":2100,
+    "furnished":1,
+    "predicted_price_aed_month":13737.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Townhouse",
+    "size_sqft":1800,
+    "furnished":0,
+    "predicted_price_aed_month":11568.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Townhouse",
+    "size_sqft":1800,
+    "furnished":1,
+    "predicted_price_aed_month":11731.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Townhouse",
+    "size_sqft":1960,
+    "furnished":0,
+    "predicted_price_aed_month":12562.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Townhouse",
+    "size_sqft":1960,
+    "furnished":1,
+    "predicted_price_aed_month":12878.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Townhouse",
+    "size_sqft":2120,
+    "furnished":0,
+    "predicted_price_aed_month":13422.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Townhouse",
+    "size_sqft":2120,
+    "furnished":1,
+    "predicted_price_aed_month":13737.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Townhouse",
+    "size_sqft":2280,
+    "furnished":0,
+    "predicted_price_aed_month":14653.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Townhouse",
+    "size_sqft":2280,
+    "furnished":1,
+    "predicted_price_aed_month":14968.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Townhouse",
+    "size_sqft":2440,
+    "furnished":0,
+    "predicted_price_aed_month":15805.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Townhouse",
+    "size_sqft":2440,
+    "furnished":1,
+    "predicted_price_aed_month":16129.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Townhouse",
+    "size_sqft":2600,
+    "furnished":0,
+    "predicted_price_aed_month":18104.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Townhouse",
+    "size_sqft":2600,
+    "furnished":1,
+    "predicted_price_aed_month":18428.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Villa",
+    "size_sqft":2800,
+    "furnished":0,
+    "predicted_price_aed_month":18104.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Villa",
+    "size_sqft":2800,
+    "furnished":1,
+    "predicted_price_aed_month":18428.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Villa",
+    "size_sqft":3280,
+    "furnished":0,
+    "predicted_price_aed_month":19865.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Villa",
+    "size_sqft":3280,
+    "furnished":1,
+    "predicted_price_aed_month":19959.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Villa",
+    "size_sqft":3760,
+    "furnished":0,
+    "predicted_price_aed_month":21934.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Villa",
+    "size_sqft":3760,
+    "furnished":1,
+    "predicted_price_aed_month":22061.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Villa",
+    "size_sqft":4240,
+    "furnished":0,
+    "predicted_price_aed_month":24241.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Villa",
+    "size_sqft":4240,
+    "furnished":1,
+    "predicted_price_aed_month":24084.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Villa",
+    "size_sqft":4720,
+    "furnished":0,
+    "predicted_price_aed_month":27183.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Villa",
+    "size_sqft":4720,
+    "furnished":1,
+    "predicted_price_aed_month":26874.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Villa",
+    "size_sqft":5200,
+    "furnished":0,
+    "predicted_price_aed_month":29679.0
+  },
+  {
+    "area":"Arabian Ranches",
+    "property_type":"Villa",
+    "size_sqft":5200,
+    "furnished":1,
+    "predicted_price_aed_month":32610.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Studio",
+    "size_sqft":380,
+    "furnished":0,
+    "predicted_price_aed_month":1564.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Studio",
+    "size_sqft":380,
+    "furnished":1,
+    "predicted_price_aed_month":1896.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Studio",
+    "size_sqft":414,
+    "furnished":0,
+    "predicted_price_aed_month":1796.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Studio",
+    "size_sqft":414,
+    "furnished":1,
+    "predicted_price_aed_month":2092.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Studio",
+    "size_sqft":448,
+    "furnished":0,
+    "predicted_price_aed_month":1855.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Studio",
+    "size_sqft":448,
+    "furnished":1,
+    "predicted_price_aed_month":2150.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Studio",
+    "size_sqft":482,
+    "furnished":0,
+    "predicted_price_aed_month":2125.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Studio",
+    "size_sqft":482,
+    "furnished":1,
+    "predicted_price_aed_month":2421.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Studio",
+    "size_sqft":516,
+    "furnished":0,
+    "predicted_price_aed_month":2179.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Studio",
+    "size_sqft":516,
+    "furnished":1,
+    "predicted_price_aed_month":2475.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Studio",
+    "size_sqft":550,
+    "furnished":0,
+    "predicted_price_aed_month":2591.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Studio",
+    "size_sqft":550,
+    "furnished":1,
+    "predicted_price_aed_month":2887.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"1BR Apartment",
+    "size_sqft":650,
+    "furnished":0,
+    "predicted_price_aed_month":2730.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"1BR Apartment",
+    "size_sqft":650,
+    "furnished":1,
+    "predicted_price_aed_month":3026.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"1BR Apartment",
+    "size_sqft":710,
+    "furnished":0,
+    "predicted_price_aed_month":3312.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"1BR Apartment",
+    "size_sqft":710,
+    "furnished":1,
+    "predicted_price_aed_month":3608.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"1BR Apartment",
+    "size_sqft":770,
+    "furnished":0,
+    "predicted_price_aed_month":3761.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"1BR Apartment",
+    "size_sqft":770,
+    "furnished":1,
+    "predicted_price_aed_month":4056.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"1BR Apartment",
+    "size_sqft":830,
+    "furnished":0,
+    "predicted_price_aed_month":4228.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"1BR Apartment",
+    "size_sqft":830,
+    "furnished":1,
+    "predicted_price_aed_month":4438.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"1BR Apartment",
+    "size_sqft":890,
+    "furnished":0,
+    "predicted_price_aed_month":4277.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"1BR Apartment",
+    "size_sqft":890,
+    "furnished":1,
+    "predicted_price_aed_month":4714.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"1BR Apartment",
+    "size_sqft":950,
+    "furnished":0,
+    "predicted_price_aed_month":4932.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"1BR Apartment",
+    "size_sqft":950,
+    "furnished":1,
+    "predicted_price_aed_month":5369.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"2BR Apartment",
+    "size_sqft":950,
+    "furnished":0,
+    "predicted_price_aed_month":4932.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"2BR Apartment",
+    "size_sqft":950,
+    "furnished":1,
+    "predicted_price_aed_month":5369.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"2BR Apartment",
+    "size_sqft":1040,
+    "furnished":0,
+    "predicted_price_aed_month":5093.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"2BR Apartment",
+    "size_sqft":1040,
+    "furnished":1,
+    "predicted_price_aed_month":5529.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"2BR Apartment",
+    "size_sqft":1130,
+    "furnished":0,
+    "predicted_price_aed_month":6196.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"2BR Apartment",
+    "size_sqft":1130,
+    "furnished":1,
+    "predicted_price_aed_month":6633.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"2BR Apartment",
+    "size_sqft":1220,
+    "furnished":0,
+    "predicted_price_aed_month":6196.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"2BR Apartment",
+    "size_sqft":1220,
+    "furnished":1,
+    "predicted_price_aed_month":6633.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"2BR Apartment",
+    "size_sqft":1310,
+    "furnished":0,
+    "predicted_price_aed_month":6748.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"2BR Apartment",
+    "size_sqft":1310,
+    "furnished":1,
+    "predicted_price_aed_month":7185.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"2BR Apartment",
+    "size_sqft":1400,
+    "furnished":0,
+    "predicted_price_aed_month":7377.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"2BR Apartment",
+    "size_sqft":1400,
+    "furnished":1,
+    "predicted_price_aed_month":7827.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"3BR Apartment",
+    "size_sqft":1400,
+    "furnished":0,
+    "predicted_price_aed_month":7367.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"3BR Apartment",
+    "size_sqft":1400,
+    "furnished":1,
+    "predicted_price_aed_month":7838.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"3BR Apartment",
+    "size_sqft":1540,
+    "furnished":0,
+    "predicted_price_aed_month":8313.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"3BR Apartment",
+    "size_sqft":1540,
+    "furnished":1,
+    "predicted_price_aed_month":8761.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"3BR Apartment",
+    "size_sqft":1680,
+    "furnished":0,
+    "predicted_price_aed_month":8561.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"3BR Apartment",
+    "size_sqft":1680,
+    "furnished":1,
+    "predicted_price_aed_month":9010.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"3BR Apartment",
+    "size_sqft":1820,
+    "furnished":0,
+    "predicted_price_aed_month":9262.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"3BR Apartment",
+    "size_sqft":1820,
+    "furnished":1,
+    "predicted_price_aed_month":9768.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"3BR Apartment",
+    "size_sqft":1960,
+    "furnished":0,
+    "predicted_price_aed_month":9776.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"3BR Apartment",
+    "size_sqft":1960,
+    "furnished":1,
+    "predicted_price_aed_month":10352.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"3BR Apartment",
+    "size_sqft":2100,
+    "furnished":0,
+    "predicted_price_aed_month":10391.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"3BR Apartment",
+    "size_sqft":2100,
+    "furnished":1,
+    "predicted_price_aed_month":10966.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Townhouse",
+    "size_sqft":1800,
+    "furnished":0,
+    "predicted_price_aed_month":9315.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Townhouse",
+    "size_sqft":1800,
+    "furnished":1,
+    "predicted_price_aed_month":9738.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Townhouse",
+    "size_sqft":1960,
+    "furnished":0,
+    "predicted_price_aed_month":9743.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Townhouse",
+    "size_sqft":1960,
+    "furnished":1,
+    "predicted_price_aed_month":10319.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Townhouse",
+    "size_sqft":2120,
+    "furnished":0,
+    "predicted_price_aed_month":10358.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Townhouse",
+    "size_sqft":2120,
+    "furnished":1,
+    "predicted_price_aed_month":10933.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Townhouse",
+    "size_sqft":2280,
+    "furnished":0,
+    "predicted_price_aed_month":11589.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Townhouse",
+    "size_sqft":2280,
+    "furnished":1,
+    "predicted_price_aed_month":12164.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Townhouse",
+    "size_sqft":2440,
+    "furnished":0,
+    "predicted_price_aed_month":12406.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Townhouse",
+    "size_sqft":2440,
+    "furnished":1,
+    "predicted_price_aed_month":12990.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Townhouse",
+    "size_sqft":2600,
+    "furnished":0,
+    "predicted_price_aed_month":14611.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Townhouse",
+    "size_sqft":2600,
+    "furnished":1,
+    "predicted_price_aed_month":15195.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Villa",
+    "size_sqft":2800,
+    "furnished":0,
+    "predicted_price_aed_month":14611.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Villa",
+    "size_sqft":2800,
+    "furnished":1,
+    "predicted_price_aed_month":15195.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Villa",
+    "size_sqft":3280,
+    "furnished":0,
+    "predicted_price_aed_month":16142.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Villa",
+    "size_sqft":3280,
+    "furnished":1,
+    "predicted_price_aed_month":16726.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Villa",
+    "size_sqft":3760,
+    "furnished":0,
+    "predicted_price_aed_month":18211.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Villa",
+    "size_sqft":3760,
+    "furnished":1,
+    "predicted_price_aed_month":18828.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Villa",
+    "size_sqft":4240,
+    "furnished":0,
+    "predicted_price_aed_month":19937.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Villa",
+    "size_sqft":4240,
+    "furnished":1,
+    "predicted_price_aed_month":20537.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Villa",
+    "size_sqft":4720,
+    "furnished":0,
+    "predicted_price_aed_month":22357.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Villa",
+    "size_sqft":4720,
+    "furnished":1,
+    "predicted_price_aed_month":22805.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Villa",
+    "size_sqft":5200,
+    "furnished":0,
+    "predicted_price_aed_month":25931.0
+  },
+  {
+    "area":"Al Furjan",
+    "property_type":"Villa",
+    "size_sqft":5200,
+    "furnished":1,
+    "predicted_price_aed_month":29386.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Studio",
+    "size_sqft":380,
+    "furnished":0,
+    "predicted_price_aed_month":1090.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Studio",
+    "size_sqft":380,
+    "furnished":1,
+    "predicted_price_aed_month":1366.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Studio",
+    "size_sqft":414,
+    "furnished":0,
+    "predicted_price_aed_month":1271.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Studio",
+    "size_sqft":414,
+    "furnished":1,
+    "predicted_price_aed_month":1511.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Studio",
+    "size_sqft":448,
+    "furnished":0,
+    "predicted_price_aed_month":1330.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Studio",
+    "size_sqft":448,
+    "furnished":1,
+    "predicted_price_aed_month":1570.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Studio",
+    "size_sqft":482,
+    "furnished":0,
+    "predicted_price_aed_month":1600.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Studio",
+    "size_sqft":482,
+    "furnished":1,
+    "predicted_price_aed_month":1840.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Studio",
+    "size_sqft":516,
+    "furnished":0,
+    "predicted_price_aed_month":1654.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Studio",
+    "size_sqft":516,
+    "furnished":1,
+    "predicted_price_aed_month":1894.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Studio",
+    "size_sqft":550,
+    "furnished":0,
+    "predicted_price_aed_month":2022.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Studio",
+    "size_sqft":550,
+    "furnished":1,
+    "predicted_price_aed_month":2262.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"1BR Apartment",
+    "size_sqft":650,
+    "furnished":0,
+    "predicted_price_aed_month":2161.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"1BR Apartment",
+    "size_sqft":650,
+    "furnished":1,
+    "predicted_price_aed_month":2401.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"1BR Apartment",
+    "size_sqft":710,
+    "furnished":0,
+    "predicted_price_aed_month":2542.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"1BR Apartment",
+    "size_sqft":710,
+    "furnished":1,
+    "predicted_price_aed_month":2782.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"1BR Apartment",
+    "size_sqft":770,
+    "furnished":0,
+    "predicted_price_aed_month":2822.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"1BR Apartment",
+    "size_sqft":770,
+    "furnished":1,
+    "predicted_price_aed_month":3062.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"1BR Apartment",
+    "size_sqft":830,
+    "furnished":0,
+    "predicted_price_aed_month":3289.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"1BR Apartment",
+    "size_sqft":830,
+    "furnished":1,
+    "predicted_price_aed_month":3443.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"1BR Apartment",
+    "size_sqft":890,
+    "furnished":0,
+    "predicted_price_aed_month":3338.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"1BR Apartment",
+    "size_sqft":890,
+    "furnished":1,
+    "predicted_price_aed_month":3646.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"1BR Apartment",
+    "size_sqft":950,
+    "furnished":0,
+    "predicted_price_aed_month":4098.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"1BR Apartment",
+    "size_sqft":950,
+    "furnished":1,
+    "predicted_price_aed_month":4406.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"2BR Apartment",
+    "size_sqft":950,
+    "furnished":0,
+    "predicted_price_aed_month":4098.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"2BR Apartment",
+    "size_sqft":950,
+    "furnished":1,
+    "predicted_price_aed_month":4406.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"2BR Apartment",
+    "size_sqft":1040,
+    "furnished":0,
+    "predicted_price_aed_month":4045.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"2BR Apartment",
+    "size_sqft":1040,
+    "furnished":1,
+    "predicted_price_aed_month":4352.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"2BR Apartment",
+    "size_sqft":1130,
+    "furnished":0,
+    "predicted_price_aed_month":5011.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"2BR Apartment",
+    "size_sqft":1130,
+    "furnished":1,
+    "predicted_price_aed_month":5318.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"2BR Apartment",
+    "size_sqft":1220,
+    "furnished":0,
+    "predicted_price_aed_month":5011.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"2BR Apartment",
+    "size_sqft":1220,
+    "furnished":1,
+    "predicted_price_aed_month":5318.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"2BR Apartment",
+    "size_sqft":1310,
+    "furnished":0,
+    "predicted_price_aed_month":5462.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"2BR Apartment",
+    "size_sqft":1310,
+    "furnished":1,
+    "predicted_price_aed_month":5769.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"2BR Apartment",
+    "size_sqft":1400,
+    "furnished":0,
+    "predicted_price_aed_month":6091.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"2BR Apartment",
+    "size_sqft":1400,
+    "furnished":1,
+    "predicted_price_aed_month":6412.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"3BR Apartment",
+    "size_sqft":1400,
+    "furnished":0,
+    "predicted_price_aed_month":6044.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"3BR Apartment",
+    "size_sqft":1400,
+    "furnished":1,
+    "predicted_price_aed_month":6385.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"3BR Apartment",
+    "size_sqft":1540,
+    "furnished":0,
+    "predicted_price_aed_month":6783.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"3BR Apartment",
+    "size_sqft":1540,
+    "furnished":1,
+    "predicted_price_aed_month":6969.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"3BR Apartment",
+    "size_sqft":1680,
+    "furnished":0,
+    "predicted_price_aed_month":7031.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"3BR Apartment",
+    "size_sqft":1680,
+    "furnished":1,
+    "predicted_price_aed_month":7145.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"3BR Apartment",
+    "size_sqft":1820,
+    "furnished":0,
+    "predicted_price_aed_month":7818.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"3BR Apartment",
+    "size_sqft":1820,
+    "furnished":1,
+    "predicted_price_aed_month":7989.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"3BR Apartment",
+    "size_sqft":1960,
+    "furnished":0,
+    "predicted_price_aed_month":8057.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"3BR Apartment",
+    "size_sqft":1960,
+    "furnished":1,
+    "predicted_price_aed_month":8198.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"3BR Apartment",
+    "size_sqft":2100,
+    "furnished":0,
+    "predicted_price_aed_month":8981.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"3BR Apartment",
+    "size_sqft":2100,
+    "furnished":1,
+    "predicted_price_aed_month":9123.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Townhouse",
+    "size_sqft":1800,
+    "furnished":0,
+    "predicted_price_aed_month":7806.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Townhouse",
+    "size_sqft":1800,
+    "furnished":1,
+    "predicted_price_aed_month":7895.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Townhouse",
+    "size_sqft":1960,
+    "furnished":0,
+    "predicted_price_aed_month":8045.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Townhouse",
+    "size_sqft":1960,
+    "furnished":1,
+    "predicted_price_aed_month":8187.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Townhouse",
+    "size_sqft":2120,
+    "furnished":0,
+    "predicted_price_aed_month":8970.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Townhouse",
+    "size_sqft":2120,
+    "furnished":1,
+    "predicted_price_aed_month":9111.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Townhouse",
+    "size_sqft":2280,
+    "furnished":0,
+    "predicted_price_aed_month":10060.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Townhouse",
+    "size_sqft":2280,
+    "furnished":1,
+    "predicted_price_aed_month":10201.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Townhouse",
+    "size_sqft":2440,
+    "furnished":0,
+    "predicted_price_aed_month":10741.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Townhouse",
+    "size_sqft":2440,
+    "furnished":1,
+    "predicted_price_aed_month":10892.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Townhouse",
+    "size_sqft":2600,
+    "furnished":0,
+    "predicted_price_aed_month":12386.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Townhouse",
+    "size_sqft":2600,
+    "furnished":1,
+    "predicted_price_aed_month":12445.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Villa",
+    "size_sqft":2800,
+    "furnished":0,
+    "predicted_price_aed_month":12386.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Villa",
+    "size_sqft":2800,
+    "furnished":1,
+    "predicted_price_aed_month":12445.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Villa",
+    "size_sqft":3280,
+    "furnished":0,
+    "predicted_price_aed_month":13917.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Villa",
+    "size_sqft":3280,
+    "furnished":1,
+    "predicted_price_aed_month":13976.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Villa",
+    "size_sqft":3760,
+    "furnished":0,
+    "predicted_price_aed_month":15986.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Villa",
+    "size_sqft":3760,
+    "furnished":1,
+    "predicted_price_aed_month":15936.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Villa",
+    "size_sqft":4240,
+    "furnished":0,
+    "predicted_price_aed_month":17744.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Villa",
+    "size_sqft":4240,
+    "furnished":1,
+    "predicted_price_aed_month":17655.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Villa",
+    "size_sqft":4720,
+    "furnished":0,
+    "predicted_price_aed_month":19178.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Villa",
+    "size_sqft":4720,
+    "furnished":1,
+    "predicted_price_aed_month":19046.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Villa",
+    "size_sqft":5200,
+    "furnished":0,
+    "predicted_price_aed_month":21739.0
+  },
+  {
+    "area":"Dubai Silicon Oasis",
+    "property_type":"Villa",
+    "size_sqft":5200,
+    "furnished":1,
+    "predicted_price_aed_month":25227.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Studio",
+    "size_sqft":380,
+    "furnished":0,
+    "predicted_price_aed_month":6217.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Studio",
+    "size_sqft":380,
+    "furnished":1,
+    "predicted_price_aed_month":6432.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Studio",
+    "size_sqft":414,
+    "furnished":0,
+    "predicted_price_aed_month":6586.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Studio",
+    "size_sqft":414,
+    "furnished":1,
+    "predicted_price_aed_month":6765.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Studio",
+    "size_sqft":448,
+    "furnished":0,
+    "predicted_price_aed_month":6644.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Studio",
+    "size_sqft":448,
+    "furnished":1,
+    "predicted_price_aed_month":6823.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Studio",
+    "size_sqft":482,
+    "furnished":0,
+    "predicted_price_aed_month":7079.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Studio",
+    "size_sqft":482,
+    "furnished":1,
+    "predicted_price_aed_month":7258.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Studio",
+    "size_sqft":516,
+    "furnished":0,
+    "predicted_price_aed_month":7365.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Studio",
+    "size_sqft":516,
+    "furnished":1,
+    "predicted_price_aed_month":7544.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Studio",
+    "size_sqft":550,
+    "furnished":0,
+    "predicted_price_aed_month":8077.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Studio",
+    "size_sqft":550,
+    "furnished":1,
+    "predicted_price_aed_month":8257.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"1BR Apartment",
+    "size_sqft":650,
+    "furnished":0,
+    "predicted_price_aed_month":8216.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"1BR Apartment",
+    "size_sqft":650,
+    "furnished":1,
+    "predicted_price_aed_month":8396.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"1BR Apartment",
+    "size_sqft":710,
+    "furnished":0,
+    "predicted_price_aed_month":8798.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"1BR Apartment",
+    "size_sqft":710,
+    "furnished":1,
+    "predicted_price_aed_month":8978.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"1BR Apartment",
+    "size_sqft":770,
+    "furnished":0,
+    "predicted_price_aed_month":9300.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"1BR Apartment",
+    "size_sqft":770,
+    "furnished":1,
+    "predicted_price_aed_month":9480.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"1BR Apartment",
+    "size_sqft":830,
+    "furnished":0,
+    "predicted_price_aed_month":9998.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"1BR Apartment",
+    "size_sqft":830,
+    "furnished":1,
+    "predicted_price_aed_month":10185.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"1BR Apartment",
+    "size_sqft":890,
+    "furnished":0,
+    "predicted_price_aed_month":11158.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"1BR Apartment",
+    "size_sqft":890,
+    "furnished":1,
+    "predicted_price_aed_month":11779.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"1BR Apartment",
+    "size_sqft":950,
+    "furnished":0,
+    "predicted_price_aed_month":12192.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"1BR Apartment",
+    "size_sqft":950,
+    "furnished":1,
+    "predicted_price_aed_month":12813.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"2BR Apartment",
+    "size_sqft":950,
+    "furnished":0,
+    "predicted_price_aed_month":12192.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"2BR Apartment",
+    "size_sqft":950,
+    "furnished":1,
+    "predicted_price_aed_month":12813.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"2BR Apartment",
+    "size_sqft":1040,
+    "furnished":0,
+    "predicted_price_aed_month":12447.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"2BR Apartment",
+    "size_sqft":1040,
+    "furnished":1,
+    "predicted_price_aed_month":13068.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"2BR Apartment",
+    "size_sqft":1130,
+    "furnished":0,
+    "predicted_price_aed_month":14912.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"2BR Apartment",
+    "size_sqft":1130,
+    "furnished":1,
+    "predicted_price_aed_month":15534.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"2BR Apartment",
+    "size_sqft":1220,
+    "furnished":0,
+    "predicted_price_aed_month":14912.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"2BR Apartment",
+    "size_sqft":1220,
+    "furnished":1,
+    "predicted_price_aed_month":15534.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"2BR Apartment",
+    "size_sqft":1310,
+    "furnished":0,
+    "predicted_price_aed_month":15550.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"2BR Apartment",
+    "size_sqft":1310,
+    "furnished":1,
+    "predicted_price_aed_month":16171.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"2BR Apartment",
+    "size_sqft":1400,
+    "furnished":0,
+    "predicted_price_aed_month":17678.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"2BR Apartment",
+    "size_sqft":1400,
+    "furnished":1,
+    "predicted_price_aed_month":18312.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"3BR Apartment",
+    "size_sqft":1400,
+    "furnished":0,
+    "predicted_price_aed_month":17768.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"3BR Apartment",
+    "size_sqft":1400,
+    "furnished":1,
+    "predicted_price_aed_month":18424.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"3BR Apartment",
+    "size_sqft":1540,
+    "furnished":0,
+    "predicted_price_aed_month":20569.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"3BR Apartment",
+    "size_sqft":1540,
+    "furnished":1,
+    "predicted_price_aed_month":21202.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"3BR Apartment",
+    "size_sqft":1680,
+    "furnished":0,
+    "predicted_price_aed_month":21287.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"3BR Apartment",
+    "size_sqft":1680,
+    "furnished":1,
+    "predicted_price_aed_month":21920.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"3BR Apartment",
+    "size_sqft":1820,
+    "furnished":0,
+    "predicted_price_aed_month":22763.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"3BR Apartment",
+    "size_sqft":1820,
+    "furnished":1,
+    "predicted_price_aed_month":23454.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"3BR Apartment",
+    "size_sqft":1960,
+    "furnished":0,
+    "predicted_price_aed_month":23944.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"3BR Apartment",
+    "size_sqft":1960,
+    "furnished":1,
+    "predicted_price_aed_month":24704.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"3BR Apartment",
+    "size_sqft":2100,
+    "furnished":0,
+    "predicted_price_aed_month":26906.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"3BR Apartment",
+    "size_sqft":2100,
+    "furnished":1,
+    "predicted_price_aed_month":27666.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Townhouse",
+    "size_sqft":1800,
+    "furnished":0,
+    "predicted_price_aed_month":22267.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Townhouse",
+    "size_sqft":1800,
+    "furnished":1,
+    "predicted_price_aed_month":22875.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Townhouse",
+    "size_sqft":1960,
+    "furnished":0,
+    "predicted_price_aed_month":23959.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Townhouse",
+    "size_sqft":1960,
+    "furnished":1,
+    "predicted_price_aed_month":24719.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Townhouse",
+    "size_sqft":2120,
+    "furnished":0,
+    "predicted_price_aed_month":26921.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Townhouse",
+    "size_sqft":2120,
+    "furnished":1,
+    "predicted_price_aed_month":27681.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Townhouse",
+    "size_sqft":2280,
+    "furnished":0,
+    "predicted_price_aed_month":30125.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Townhouse",
+    "size_sqft":2280,
+    "furnished":1,
+    "predicted_price_aed_month":30885.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Townhouse",
+    "size_sqft":2440,
+    "furnished":0,
+    "predicted_price_aed_month":31496.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Townhouse",
+    "size_sqft":2440,
+    "furnished":1,
+    "predicted_price_aed_month":32265.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Townhouse",
+    "size_sqft":2600,
+    "furnished":0,
+    "predicted_price_aed_month":35024.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Townhouse",
+    "size_sqft":2600,
+    "furnished":1,
+    "predicted_price_aed_month":35792.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Villa",
+    "size_sqft":2800,
+    "furnished":0,
+    "predicted_price_aed_month":36809.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Villa",
+    "size_sqft":2800,
+    "furnished":1,
+    "predicted_price_aed_month":37578.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Villa",
+    "size_sqft":3280,
+    "furnished":0,
+    "predicted_price_aed_month":41035.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Villa",
+    "size_sqft":3280,
+    "furnished":1,
+    "predicted_price_aed_month":41804.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Villa",
+    "size_sqft":3760,
+    "furnished":0,
+    "predicted_price_aed_month":45267.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Villa",
+    "size_sqft":3760,
+    "furnished":1,
+    "predicted_price_aed_month":46035.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Villa",
+    "size_sqft":4240,
+    "furnished":0,
+    "predicted_price_aed_month":53422.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Villa",
+    "size_sqft":4240,
+    "furnished":1,
+    "predicted_price_aed_month":54151.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Villa",
+    "size_sqft":4720,
+    "furnished":0,
+    "predicted_price_aed_month":63153.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Villa",
+    "size_sqft":4720,
+    "furnished":1,
+    "predicted_price_aed_month":63730.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Villa",
+    "size_sqft":5200,
+    "furnished":0,
+    "predicted_price_aed_month":64156.0
+  },
+  {
+    "area":"Palm Jumeirah",
+    "property_type":"Villa",
+    "size_sqft":5200,
+    "furnished":1,
+    "predicted_price_aed_month":68202.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Studio",
+    "size_sqft":380,
+    "furnished":0,
+    "predicted_price_aed_month":1126.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Studio",
+    "size_sqft":380,
+    "furnished":1,
+    "predicted_price_aed_month":1458.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Studio",
+    "size_sqft":414,
+    "furnished":0,
+    "predicted_price_aed_month":1302.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Studio",
+    "size_sqft":414,
+    "furnished":1,
+    "predicted_price_aed_month":1597.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Studio",
+    "size_sqft":448,
+    "furnished":0,
+    "predicted_price_aed_month":1360.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Studio",
+    "size_sqft":448,
+    "furnished":1,
+    "predicted_price_aed_month":1655.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Studio",
+    "size_sqft":482,
+    "furnished":0,
+    "predicted_price_aed_month":1630.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Studio",
+    "size_sqft":482,
+    "furnished":1,
+    "predicted_price_aed_month":1925.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Studio",
+    "size_sqft":516,
+    "furnished":0,
+    "predicted_price_aed_month":1650.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Studio",
+    "size_sqft":516,
+    "furnished":1,
+    "predicted_price_aed_month":1945.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Studio",
+    "size_sqft":550,
+    "furnished":0,
+    "predicted_price_aed_month":2062.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Studio",
+    "size_sqft":550,
+    "furnished":1,
+    "predicted_price_aed_month":2357.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"1BR Apartment",
+    "size_sqft":650,
+    "furnished":0,
+    "predicted_price_aed_month":2201.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"1BR Apartment",
+    "size_sqft":650,
+    "furnished":1,
+    "predicted_price_aed_month":2496.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"1BR Apartment",
+    "size_sqft":710,
+    "furnished":0,
+    "predicted_price_aed_month":2783.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"1BR Apartment",
+    "size_sqft":710,
+    "furnished":1,
+    "predicted_price_aed_month":3078.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"1BR Apartment",
+    "size_sqft":770,
+    "furnished":0,
+    "predicted_price_aed_month":3088.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"1BR Apartment",
+    "size_sqft":770,
+    "furnished":1,
+    "predicted_price_aed_month":3383.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"1BR Apartment",
+    "size_sqft":830,
+    "furnished":0,
+    "predicted_price_aed_month":3474.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"1BR Apartment",
+    "size_sqft":830,
+    "furnished":1,
+    "predicted_price_aed_month":3683.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"1BR Apartment",
+    "size_sqft":890,
+    "furnished":0,
+    "predicted_price_aed_month":3523.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"1BR Apartment",
+    "size_sqft":890,
+    "furnished":1,
+    "predicted_price_aed_month":3959.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"1BR Apartment",
+    "size_sqft":950,
+    "furnished":0,
+    "predicted_price_aed_month":4283.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"1BR Apartment",
+    "size_sqft":950,
+    "furnished":1,
+    "predicted_price_aed_month":4719.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"2BR Apartment",
+    "size_sqft":950,
+    "furnished":0,
+    "predicted_price_aed_month":4283.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"2BR Apartment",
+    "size_sqft":950,
+    "furnished":1,
+    "predicted_price_aed_month":4719.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"2BR Apartment",
+    "size_sqft":1040,
+    "furnished":0,
+    "predicted_price_aed_month":4443.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"2BR Apartment",
+    "size_sqft":1040,
+    "furnished":1,
+    "predicted_price_aed_month":4879.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"2BR Apartment",
+    "size_sqft":1130,
+    "furnished":0,
+    "predicted_price_aed_month":5388.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"2BR Apartment",
+    "size_sqft":1130,
+    "furnished":1,
+    "predicted_price_aed_month":5824.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"2BR Apartment",
+    "size_sqft":1220,
+    "furnished":0,
+    "predicted_price_aed_month":5388.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"2BR Apartment",
+    "size_sqft":1220,
+    "furnished":1,
+    "predicted_price_aed_month":5824.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"2BR Apartment",
+    "size_sqft":1310,
+    "furnished":0,
+    "predicted_price_aed_month":5773.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"2BR Apartment",
+    "size_sqft":1310,
+    "furnished":1,
+    "predicted_price_aed_month":6209.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"2BR Apartment",
+    "size_sqft":1400,
+    "furnished":0,
+    "predicted_price_aed_month":6402.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"2BR Apartment",
+    "size_sqft":1400,
+    "furnished":1,
+    "predicted_price_aed_month":6852.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"3BR Apartment",
+    "size_sqft":1400,
+    "furnished":0,
+    "predicted_price_aed_month":6392.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"3BR Apartment",
+    "size_sqft":1400,
+    "furnished":1,
+    "predicted_price_aed_month":6862.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"3BR Apartment",
+    "size_sqft":1540,
+    "furnished":0,
+    "predicted_price_aed_month":7237.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"3BR Apartment",
+    "size_sqft":1540,
+    "furnished":1,
+    "predicted_price_aed_month":7684.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"3BR Apartment",
+    "size_sqft":1680,
+    "furnished":0,
+    "predicted_price_aed_month":7383.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"3BR Apartment",
+    "size_sqft":1680,
+    "furnished":1,
+    "predicted_price_aed_month":7831.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"3BR Apartment",
+    "size_sqft":1820,
+    "furnished":0,
+    "predicted_price_aed_month":8221.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"3BR Apartment",
+    "size_sqft":1820,
+    "furnished":1,
+    "predicted_price_aed_month":8727.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"3BR Apartment",
+    "size_sqft":1960,
+    "furnished":0,
+    "predicted_price_aed_month":8574.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"3BR Apartment",
+    "size_sqft":1960,
+    "furnished":1,
+    "predicted_price_aed_month":9148.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"3BR Apartment",
+    "size_sqft":2100,
+    "furnished":0,
+    "predicted_price_aed_month":9222.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"3BR Apartment",
+    "size_sqft":2100,
+    "furnished":1,
+    "predicted_price_aed_month":9796.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Townhouse",
+    "size_sqft":1800,
+    "furnished":0,
+    "predicted_price_aed_month":8101.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Townhouse",
+    "size_sqft":1800,
+    "furnished":1,
+    "predicted_price_aed_month":8524.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Townhouse",
+    "size_sqft":1960,
+    "furnished":0,
+    "predicted_price_aed_month":8563.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Townhouse",
+    "size_sqft":1960,
+    "furnished":1,
+    "predicted_price_aed_month":9138.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Townhouse",
+    "size_sqft":2120,
+    "furnished":0,
+    "predicted_price_aed_month":9211.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Townhouse",
+    "size_sqft":2120,
+    "furnished":1,
+    "predicted_price_aed_month":9786.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Townhouse",
+    "size_sqft":2280,
+    "furnished":0,
+    "predicted_price_aed_month":10442.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Townhouse",
+    "size_sqft":2280,
+    "furnished":1,
+    "predicted_price_aed_month":11017.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Townhouse",
+    "size_sqft":2440,
+    "furnished":0,
+    "predicted_price_aed_month":11539.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Townhouse",
+    "size_sqft":2440,
+    "furnished":1,
+    "predicted_price_aed_month":12122.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Townhouse",
+    "size_sqft":2600,
+    "furnished":0,
+    "predicted_price_aed_month":13324.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Townhouse",
+    "size_sqft":2600,
+    "furnished":1,
+    "predicted_price_aed_month":13907.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Villa",
+    "size_sqft":2800,
+    "furnished":0,
+    "predicted_price_aed_month":13324.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Villa",
+    "size_sqft":2800,
+    "furnished":1,
+    "predicted_price_aed_month":13907.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Villa",
+    "size_sqft":3280,
+    "furnished":0,
+    "predicted_price_aed_month":14855.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Villa",
+    "size_sqft":3280,
+    "furnished":1,
+    "predicted_price_aed_month":15438.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Villa",
+    "size_sqft":3760,
+    "furnished":0,
+    "predicted_price_aed_month":16924.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Villa",
+    "size_sqft":3760,
+    "furnished":1,
+    "predicted_price_aed_month":17540.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Villa",
+    "size_sqft":4240,
+    "furnished":0,
+    "predicted_price_aed_month":18730.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Villa",
+    "size_sqft":4240,
+    "furnished":1,
+    "predicted_price_aed_month":19306.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Villa",
+    "size_sqft":4720,
+    "furnished":0,
+    "predicted_price_aed_month":20840.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Villa",
+    "size_sqft":4720,
+    "furnished":1,
+    "predicted_price_aed_month":21265.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Villa",
+    "size_sqft":5200,
+    "furnished":0,
+    "predicted_price_aed_month":22149.0
+  },
+  {
+    "area":"Dubai Sports City",
+    "property_type":"Villa",
+    "size_sqft":5200,
+    "furnished":1,
+    "predicted_price_aed_month":26193.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Studio",
+    "size_sqft":380,
+    "furnished":0,
+    "predicted_price_aed_month":1412.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Studio",
+    "size_sqft":380,
+    "furnished":1,
+    "predicted_price_aed_month":1749.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Studio",
+    "size_sqft":414,
+    "furnished":0,
+    "predicted_price_aed_month":1533.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Studio",
+    "size_sqft":414,
+    "furnished":1,
+    "predicted_price_aed_month":1834.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Studio",
+    "size_sqft":448,
+    "furnished":0,
+    "predicted_price_aed_month":1592.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Studio",
+    "size_sqft":448,
+    "furnished":1,
+    "predicted_price_aed_month":1892.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Studio",
+    "size_sqft":482,
+    "furnished":0,
+    "predicted_price_aed_month":1823.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Studio",
+    "size_sqft":482,
+    "furnished":1,
+    "predicted_price_aed_month":2123.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Studio",
+    "size_sqft":516,
+    "furnished":0,
+    "predicted_price_aed_month":1823.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Studio",
+    "size_sqft":516,
+    "furnished":1,
+    "predicted_price_aed_month":2123.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Studio",
+    "size_sqft":550,
+    "furnished":0,
+    "predicted_price_aed_month":2234.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Studio",
+    "size_sqft":550,
+    "furnished":1,
+    "predicted_price_aed_month":2535.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"1BR Apartment",
+    "size_sqft":650,
+    "furnished":0,
+    "predicted_price_aed_month":2373.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"1BR Apartment",
+    "size_sqft":650,
+    "furnished":1,
+    "predicted_price_aed_month":2674.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"1BR Apartment",
+    "size_sqft":710,
+    "furnished":0,
+    "predicted_price_aed_month":2955.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"1BR Apartment",
+    "size_sqft":710,
+    "furnished":1,
+    "predicted_price_aed_month":3256.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"1BR Apartment",
+    "size_sqft":770,
+    "furnished":0,
+    "predicted_price_aed_month":3404.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"1BR Apartment",
+    "size_sqft":770,
+    "furnished":1,
+    "predicted_price_aed_month":3705.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"1BR Apartment",
+    "size_sqft":830,
+    "furnished":0,
+    "predicted_price_aed_month":3824.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"1BR Apartment",
+    "size_sqft":830,
+    "furnished":1,
+    "predicted_price_aed_month":4039.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"1BR Apartment",
+    "size_sqft":890,
+    "furnished":0,
+    "predicted_price_aed_month":3873.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"1BR Apartment",
+    "size_sqft":890,
+    "furnished":1,
+    "predicted_price_aed_month":4315.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"1BR Apartment",
+    "size_sqft":950,
+    "furnished":0,
+    "predicted_price_aed_month":4633.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"1BR Apartment",
+    "size_sqft":950,
+    "furnished":1,
+    "predicted_price_aed_month":5075.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"2BR Apartment",
+    "size_sqft":950,
+    "furnished":0,
+    "predicted_price_aed_month":4633.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"2BR Apartment",
+    "size_sqft":950,
+    "furnished":1,
+    "predicted_price_aed_month":5075.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"2BR Apartment",
+    "size_sqft":1040,
+    "furnished":0,
+    "predicted_price_aed_month":4735.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"2BR Apartment",
+    "size_sqft":1040,
+    "furnished":1,
+    "predicted_price_aed_month":5177.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"2BR Apartment",
+    "size_sqft":1130,
+    "furnished":0,
+    "predicted_price_aed_month":5817.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"2BR Apartment",
+    "size_sqft":1130,
+    "furnished":1,
+    "predicted_price_aed_month":6258.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"2BR Apartment",
+    "size_sqft":1220,
+    "furnished":0,
+    "predicted_price_aed_month":5761.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"2BR Apartment",
+    "size_sqft":1220,
+    "furnished":1,
+    "predicted_price_aed_month":6202.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"2BR Apartment",
+    "size_sqft":1310,
+    "furnished":0,
+    "predicted_price_aed_month":6312.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"2BR Apartment",
+    "size_sqft":1310,
+    "furnished":1,
+    "predicted_price_aed_month":6754.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"2BR Apartment",
+    "size_sqft":1400,
+    "furnished":0,
+    "predicted_price_aed_month":6942.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"2BR Apartment",
+    "size_sqft":1400,
+    "furnished":1,
+    "predicted_price_aed_month":7397.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"3BR Apartment",
+    "size_sqft":1400,
+    "furnished":0,
+    "predicted_price_aed_month":6901.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"3BR Apartment",
+    "size_sqft":1400,
+    "furnished":1,
+    "predicted_price_aed_month":7377.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"3BR Apartment",
+    "size_sqft":1540,
+    "furnished":0,
+    "predicted_price_aed_month":7847.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"3BR Apartment",
+    "size_sqft":1540,
+    "furnished":1,
+    "predicted_price_aed_month":8300.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"3BR Apartment",
+    "size_sqft":1680,
+    "furnished":0,
+    "predicted_price_aed_month":7992.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"3BR Apartment",
+    "size_sqft":1680,
+    "furnished":1,
+    "predicted_price_aed_month":8445.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"3BR Apartment",
+    "size_sqft":1820,
+    "furnished":0,
+    "predicted_price_aed_month":8830.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"3BR Apartment",
+    "size_sqft":1820,
+    "furnished":1,
+    "predicted_price_aed_month":9340.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"3BR Apartment",
+    "size_sqft":1960,
+    "furnished":0,
+    "predicted_price_aed_month":9344.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"3BR Apartment",
+    "size_sqft":1960,
+    "furnished":1,
+    "predicted_price_aed_month":9924.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"3BR Apartment",
+    "size_sqft":2100,
+    "furnished":0,
+    "predicted_price_aed_month":10164.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"3BR Apartment",
+    "size_sqft":2100,
+    "furnished":1,
+    "predicted_price_aed_month":10745.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Townhouse",
+    "size_sqft":1800,
+    "furnished":0,
+    "predicted_price_aed_month":8739.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Townhouse",
+    "size_sqft":1800,
+    "furnished":1,
+    "predicted_price_aed_month":9167.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Townhouse",
+    "size_sqft":1960,
+    "furnished":0,
+    "predicted_price_aed_month":9363.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Townhouse",
+    "size_sqft":1960,
+    "furnished":1,
+    "predicted_price_aed_month":9943.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Townhouse",
+    "size_sqft":2120,
+    "furnished":0,
+    "predicted_price_aed_month":10183.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Townhouse",
+    "size_sqft":2120,
+    "furnished":1,
+    "predicted_price_aed_month":10763.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Townhouse",
+    "size_sqft":2280,
+    "furnished":0,
+    "predicted_price_aed_month":11165.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Townhouse",
+    "size_sqft":2280,
+    "furnished":1,
+    "predicted_price_aed_month":11721.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Townhouse",
+    "size_sqft":2440,
+    "furnished":0,
+    "predicted_price_aed_month":11956.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Townhouse",
+    "size_sqft":2440,
+    "furnished":1,
+    "predicted_price_aed_month":12521.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Townhouse",
+    "size_sqft":2600,
+    "furnished":0,
+    "predicted_price_aed_month":14011.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Townhouse",
+    "size_sqft":2600,
+    "furnished":1,
+    "predicted_price_aed_month":14575.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Villa",
+    "size_sqft":2800,
+    "furnished":0,
+    "predicted_price_aed_month":13944.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Villa",
+    "size_sqft":2800,
+    "furnished":1,
+    "predicted_price_aed_month":14508.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Villa",
+    "size_sqft":3280,
+    "furnished":0,
+    "predicted_price_aed_month":15475.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Villa",
+    "size_sqft":3280,
+    "furnished":1,
+    "predicted_price_aed_month":16039.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Villa",
+    "size_sqft":3760,
+    "furnished":0,
+    "predicted_price_aed_month":17544.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Villa",
+    "size_sqft":3760,
+    "furnished":1,
+    "predicted_price_aed_month":18141.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Villa",
+    "size_sqft":4240,
+    "furnished":0,
+    "predicted_price_aed_month":19359.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Villa",
+    "size_sqft":4240,
+    "furnished":1,
+    "predicted_price_aed_month":19916.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Villa",
+    "size_sqft":4720,
+    "furnished":0,
+    "predicted_price_aed_month":21980.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Villa",
+    "size_sqft":4720,
+    "furnished":1,
+    "predicted_price_aed_month":22386.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Villa",
+    "size_sqft":5200,
+    "furnished":0,
+    "predicted_price_aed_month":22888.0
+  },
+  {
+    "area":"Mirdif",
+    "property_type":"Villa",
+    "size_sqft":5200,
+    "furnished":1,
+    "predicted_price_aed_month":26913.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Studio",
+    "size_sqft":380,
+    "furnished":0,
+    "predicted_price_aed_month":1560.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Studio",
+    "size_sqft":380,
+    "furnished":1,
+    "predicted_price_aed_month":1916.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Studio",
+    "size_sqft":414,
+    "furnished":0,
+    "predicted_price_aed_month":1755.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Studio",
+    "size_sqft":414,
+    "furnished":1,
+    "predicted_price_aed_month":2075.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Studio",
+    "size_sqft":448,
+    "furnished":0,
+    "predicted_price_aed_month":1814.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Studio",
+    "size_sqft":448,
+    "furnished":1,
+    "predicted_price_aed_month":2133.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Studio",
+    "size_sqft":482,
+    "furnished":0,
+    "predicted_price_aed_month":2084.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Studio",
+    "size_sqft":482,
+    "furnished":1,
+    "predicted_price_aed_month":2403.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Studio",
+    "size_sqft":516,
+    "furnished":0,
+    "predicted_price_aed_month":2119.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Studio",
+    "size_sqft":516,
+    "furnished":1,
+    "predicted_price_aed_month":2438.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Studio",
+    "size_sqft":550,
+    "furnished":0,
+    "predicted_price_aed_month":2530.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Studio",
+    "size_sqft":550,
+    "furnished":1,
+    "predicted_price_aed_month":2849.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"1BR Apartment",
+    "size_sqft":650,
+    "furnished":0,
+    "predicted_price_aed_month":2669.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"1BR Apartment",
+    "size_sqft":650,
+    "furnished":1,
+    "predicted_price_aed_month":2988.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"1BR Apartment",
+    "size_sqft":710,
+    "furnished":0,
+    "predicted_price_aed_month":3222.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"1BR Apartment",
+    "size_sqft":710,
+    "furnished":1,
+    "predicted_price_aed_month":3541.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"1BR Apartment",
+    "size_sqft":770,
+    "furnished":0,
+    "predicted_price_aed_month":3671.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"1BR Apartment",
+    "size_sqft":770,
+    "furnished":1,
+    "predicted_price_aed_month":3990.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"1BR Apartment",
+    "size_sqft":830,
+    "furnished":0,
+    "predicted_price_aed_month":4010.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"1BR Apartment",
+    "size_sqft":830,
+    "furnished":1,
+    "predicted_price_aed_month":4244.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"1BR Apartment",
+    "size_sqft":890,
+    "furnished":0,
+    "predicted_price_aed_month":4059.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"1BR Apartment",
+    "size_sqft":890,
+    "furnished":1,
+    "predicted_price_aed_month":4519.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"1BR Apartment",
+    "size_sqft":950,
+    "furnished":0,
+    "predicted_price_aed_month":4735.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"1BR Apartment",
+    "size_sqft":950,
+    "furnished":1,
+    "predicted_price_aed_month":5195.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"2BR Apartment",
+    "size_sqft":950,
+    "furnished":0,
+    "predicted_price_aed_month":4735.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"2BR Apartment",
+    "size_sqft":950,
+    "furnished":1,
+    "predicted_price_aed_month":5195.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"2BR Apartment",
+    "size_sqft":1040,
+    "furnished":0,
+    "predicted_price_aed_month":4895.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"2BR Apartment",
+    "size_sqft":1040,
+    "furnished":1,
+    "predicted_price_aed_month":5355.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"2BR Apartment",
+    "size_sqft":1130,
+    "furnished":0,
+    "predicted_price_aed_month":5998.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"2BR Apartment",
+    "size_sqft":1130,
+    "furnished":1,
+    "predicted_price_aed_month":6458.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"2BR Apartment",
+    "size_sqft":1220,
+    "furnished":0,
+    "predicted_price_aed_month":5998.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"2BR Apartment",
+    "size_sqft":1220,
+    "furnished":1,
+    "predicted_price_aed_month":6458.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"2BR Apartment",
+    "size_sqft":1310,
+    "furnished":0,
+    "predicted_price_aed_month":6550.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"2BR Apartment",
+    "size_sqft":1310,
+    "furnished":1,
+    "predicted_price_aed_month":7010.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"2BR Apartment",
+    "size_sqft":1400,
+    "furnished":0,
+    "predicted_price_aed_month":7180.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"2BR Apartment",
+    "size_sqft":1400,
+    "furnished":1,
+    "predicted_price_aed_month":7653.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"3BR Apartment",
+    "size_sqft":1400,
+    "furnished":0,
+    "predicted_price_aed_month":7169.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"3BR Apartment",
+    "size_sqft":1400,
+    "furnished":1,
+    "predicted_price_aed_month":7663.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"3BR Apartment",
+    "size_sqft":1540,
+    "furnished":0,
+    "predicted_price_aed_month":8115.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"3BR Apartment",
+    "size_sqft":1540,
+    "furnished":1,
+    "predicted_price_aed_month":8587.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"3BR Apartment",
+    "size_sqft":1680,
+    "furnished":0,
+    "predicted_price_aed_month":8364.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"3BR Apartment",
+    "size_sqft":1680,
+    "furnished":1,
+    "predicted_price_aed_month":8835.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"3BR Apartment",
+    "size_sqft":1820,
+    "furnished":0,
+    "predicted_price_aed_month":9260.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"3BR Apartment",
+    "size_sqft":1820,
+    "furnished":1,
+    "predicted_price_aed_month":9789.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"3BR Apartment",
+    "size_sqft":1960,
+    "furnished":0,
+    "predicted_price_aed_month":9719.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"3BR Apartment",
+    "size_sqft":1960,
+    "furnished":1,
+    "predicted_price_aed_month":10317.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"3BR Apartment",
+    "size_sqft":2100,
+    "furnished":0,
+    "predicted_price_aed_month":10445.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"3BR Apartment",
+    "size_sqft":2100,
+    "furnished":1,
+    "predicted_price_aed_month":11043.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Townhouse",
+    "size_sqft":1800,
+    "furnished":0,
+    "predicted_price_aed_month":9113.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Townhouse",
+    "size_sqft":1800,
+    "furnished":1,
+    "predicted_price_aed_month":9559.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Townhouse",
+    "size_sqft":1960,
+    "furnished":0,
+    "predicted_price_aed_month":9681.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Townhouse",
+    "size_sqft":1960,
+    "furnished":1,
+    "predicted_price_aed_month":10279.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Townhouse",
+    "size_sqft":2120,
+    "furnished":0,
+    "predicted_price_aed_month":10407.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Townhouse",
+    "size_sqft":2120,
+    "furnished":1,
+    "predicted_price_aed_month":11005.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Townhouse",
+    "size_sqft":2280,
+    "furnished":0,
+    "predicted_price_aed_month":11638.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Townhouse",
+    "size_sqft":2280,
+    "furnished":1,
+    "predicted_price_aed_month":12236.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Townhouse",
+    "size_sqft":2440,
+    "furnished":0,
+    "predicted_price_aed_month":12735.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Townhouse",
+    "size_sqft":2440,
+    "furnished":1,
+    "predicted_price_aed_month":13342.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Townhouse",
+    "size_sqft":2600,
+    "furnished":0,
+    "predicted_price_aed_month":14982.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Townhouse",
+    "size_sqft":2600,
+    "furnished":1,
+    "predicted_price_aed_month":15590.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Villa",
+    "size_sqft":2800,
+    "furnished":0,
+    "predicted_price_aed_month":15009.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Villa",
+    "size_sqft":2800,
+    "furnished":1,
+    "predicted_price_aed_month":15616.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Villa",
+    "size_sqft":3280,
+    "furnished":0,
+    "predicted_price_aed_month":16494.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Villa",
+    "size_sqft":3280,
+    "furnished":1,
+    "predicted_price_aed_month":17101.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Villa",
+    "size_sqft":3760,
+    "furnished":0,
+    "predicted_price_aed_month":18427.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Villa",
+    "size_sqft":3760,
+    "furnished":1,
+    "predicted_price_aed_month":19066.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Villa",
+    "size_sqft":4240,
+    "furnished":0,
+    "predicted_price_aed_month":20367.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Villa",
+    "size_sqft":4240,
+    "furnished":1,
+    "predicted_price_aed_month":20967.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Villa",
+    "size_sqft":4720,
+    "furnished":0,
+    "predicted_price_aed_month":22366.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Villa",
+    "size_sqft":4720,
+    "furnished":1,
+    "predicted_price_aed_month":22814.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Villa",
+    "size_sqft":5200,
+    "furnished":0,
+    "predicted_price_aed_month":20736.0
+  },
+  {
+    "area":"Discovery Gardens",
+    "property_type":"Villa",
+    "size_sqft":5200,
+    "furnished":1,
+    "predicted_price_aed_month":24569.0
+  }
+]

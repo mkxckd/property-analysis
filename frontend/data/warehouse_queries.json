@@ -1,0 +1,333 @@
+[
+  {
+    "name": "area_leaderboard",
+    "title": "Area leaderboard",
+    "description": "Annual rent per sqft by area, with duplicates collapsed and fraud excluded in SQL.",
+    "sql": "-- Area leaderboard: average annual rent per sqft on the cleaned market.\n-- \"Cleaned\" happens here in SQL, not upstream: each duplicate cluster\n-- counts once (its earliest listing), and model-flagged fraud is excluded.\nWITH ranked AS (\n    SELECT f.*,\n           d.full_date,\n           ROW_NUMBER() OVER (\n               PARTITION BY COALESCE(f.dup_cluster_id, 'L' || f.listing_id)\n               ORDER BY d.full_date, f.listing_id\n           ) AS nth_posting\n    FROM fact_listings f\n    JOIN dim_date d USING (date_id)\n    WHERE f.is_active = 1\n)\nSELECT a.area_name                                        AS area,\n       ROUND(AVG(r.price_aed_month * 12.0 / r.size_sqft), 1) AS avg_price_per_sqft_annual,\n       COUNT(*)                                           AS listing_count,\n       SUM(r.is_flagged_fraud)                            AS excluded_fraud\nFROM ranked r\nJOIN dim_area a USING (area_id)\nWHERE r.nth_posting = 1\n  AND r.is_flagged_fraud = 0\nGROUP BY a.area_name\nORDER BY avg_price_per_sqft_annual DESC;",
+    "columns": [
+      "area",
+      "avg_price_per_sqft_annual",
+      "listing_count",
+      "excluded_fraud"
+    ],
+    "rows": [
+      [
+        "Palm Jumeirah",
+        156.2,
+        179,
+        0
+      ],
+      [
+        "Downtown Dubai",
+        132.2,
+        169,
+        0
+      ],
+      [
+        "Dubai Marina",
+        104.3,
+        167,
+        0
+      ],
+      [
+        "Business Bay",
+        93.0,
+        170,
+        0
+      ],
+      [
+        "Jumeirah Lake Towers",
+        88.7,
+        196,
+        0
+      ],
+      [
+        "Arabian Ranches",
+        79.0,
+        205,
+        0
+      ],
+      [
+        "Jumeirah Village Circle",
+        62.5,
+        194,
+        0
+      ],
+      [
+        "Al Furjan",
+        60.6,
+        196,
+        0
+      ],
+      [
+        "Discovery Gardens",
+        58.8,
+        185,
+        0
+      ],
+      [
+        "Mirdif",
+        55.0,
+        171,
+        0
+      ],
+      [
+        "Dubai Sports City",
+        52.1,
+        186,
+        0
+      ],
+      [
+        "Dubai Silicon Oasis",
+        48.6,
+        176,
+        0
+      ]
+    ]
+  },
+  {
+    "name": "monthly_rent_index",
+    "title": "Monthly rent index",
+    "description": "Rent per sqft of newly posted units by month, with month-over-month change.",
+    "sql": "-- Monthly rent index: average annual rent per sqft for newly posted\n-- units, with the month-over-month change computed by a window function.\nWITH unique_units AS (\n    SELECT f.*,\n           ROW_NUMBER() OVER (\n               PARTITION BY COALESCE(f.dup_cluster_id, 'L' || f.listing_id)\n               ORDER BY f.date_id, f.listing_id\n           ) AS nth_posting\n    FROM fact_listings f\n    WHERE f.is_active = 1 AND f.is_flagged_fraud = 0\n),\nmonthly AS (\n    SELECT printf('%04d-%02d', d.year, d.month)        AS month,\n           COUNT(*)                                    AS new_units,\n           AVG(u.price_aed_month * 12.0 / u.size_sqft) AS psf\n    FROM unique_units u\n    JOIN dim_date d USING (date_id)\n    WHERE u.nth_posting = 1\n    GROUP BY d.year, d.month\n)\nSELECT month,\n       new_units,\n       ROUND(psf, 1) AS avg_price_per_sqft_annual,\n       ROUND(100.0 * (psf - LAG(psf) OVER (ORDER BY month)) / LAG(psf) OVER (ORDER BY month), 1) AS mom_change_pct\nFROM monthly\nORDER BY month;",
+    "columns": [
+      "month",
+      "new_units",
+      "avg_price_per_sqft_annual",
+      "mom_change_pct"
+    ],
+    "rows": [
+      [
+        "2026-01",
+        255,
+        79.8,
+        null
+      ],
+      [
+        "2026-02",
+        275,
+        82.2,
+        3.0
+      ],
+      [
+        "2026-03",
+        269,
+        81.0,
+        -1.4
+      ],
+      [
+        "2026-04",
+        295,
+        80.1,
+        -1.1
+      ],
+      [
+        "2026-05",
+        286,
+        83.3,
+        4.0
+      ],
+      [
+        "2026-06",
+        298,
+        87.8,
+        5.5
+      ],
+      [
+        "2026-07",
+        270,
+        79.5,
+        -9.5
+      ],
+      [
+        "2026-08",
+        243,
+        81.0,
+        1.9
+      ],
+      [
+        "2026-09",
+        3,
+        69.1,
+        -14.7
+      ]
+    ]
+  },
+  {
+    "name": "agent_repost_rate",
+    "title": "Agent repost rate",
+    "description": "How often each agent re-posts a unit that is already listed.",
+    "sql": "-- Which agents re-post units that are already on the market? A repost is\n-- any listing that is not the first posting of its duplicate cluster.\nWITH postings AS (\n    SELECT f.agent_id,\n           f.is_flagged_fraud,\n           ROW_NUMBER() OVER (\n               PARTITION BY COALESCE(f.dup_cluster_id, 'L' || f.listing_id)\n               ORDER BY f.date_id, f.listing_id\n           ) AS nth_posting\n    FROM fact_listings f\n    WHERE f.is_active = 1\n)\nSELECT g.agent_name                                   AS agent,\n       COUNT(*)                                       AS listings,\n       SUM(p.nth_posting > 1)                         AS reposts,\n       ROUND(100.0 * SUM(p.nth_posting > 1) / COUNT(*), 1) AS repost_rate_pct,\n       SUM(p.is_flagged_fraud)                        AS flagged_fraud\nFROM postings p\nJOIN dim_agent g USING (agent_id)\nGROUP BY g.agent_name\nORDER BY repost_rate_pct DESC, listings DESC;",
+    "columns": [
+      "agent",
+      "listings",
+      "reposts",
+      "repost_rate_pct",
+      "flagged_fraud"
+    ],
+    "rows": [
+      [
+        "Ravi Shankar",
+        162,
+        30,
+        18.5,
+        3
+      ],
+      [
+        "Sofia Marchetti",
+        181,
+        32,
+        17.7,
+        7
+      ],
+      [
+        "Layla Haddad",
+        172,
+        29,
+        16.9,
+        6
+      ],
+      [
+        "Fatima Al-Suwaidi",
+        160,
+        27,
+        16.9,
+        5
+      ],
+      [
+        "Michael Costa",
+        180,
+        29,
+        16.1,
+        3
+      ],
+      [
+        "Chen Wei",
+        160,
+        25,
+        15.6,
+        7
+      ],
+      [
+        "Omar Farouk",
+        193,
+        27,
+        14.0,
+        3
+      ],
+      [
+        "Daniel Reyes",
+        164,
+        23,
+        14.0,
+        8
+      ],
+      [
+        "Yusuf Karimi",
+        176,
+        23,
+        13.1,
+        5
+      ],
+      [
+        "Anjali Menon",
+        200,
+        26,
+        13.0,
+        1
+      ],
+      [
+        "Priya Nair",
+        188,
+        24,
+        12.8,
+        1
+      ],
+      [
+        "Elena Popescu",
+        174,
+        22,
+        12.6,
+        8
+      ],
+      [
+        "Grace Okafor",
+        165,
+        19,
+        11.5,
+        1
+      ],
+      [
+        "Hassan Ali",
+        174,
+        16,
+        9.2,
+        4
+      ],
+      [
+        "Noor Abdullah",
+        180,
+        13,
+        7.2,
+        8
+      ]
+    ]
+  },
+  {
+    "name": "model_error_by_segment",
+    "title": "Model error by segment",
+    "description": "Out-of-fold pricing gap per property type: where the model is weakest.",
+    "sql": "-- Where is the fair-value model weakest? Out-of-fold gap between listed\n-- and predicted price (as a % of predicted), per property\n-- type, on listings not flagged as fraud. Positive bias means\n-- listings in that segment tend to be priced above the model's estimate.\nSELECT p.property_type,\n       COUNT(*)                                            AS listings,\n       ROUND(AVG(ABS(f.residual_pct)) * 100, 1)            AS avg_abs_gap_pct,\n       ROUND(AVG(f.residual_pct) * 100, 1)                 AS bias_pct,\n       ROUND(AVG(ABS(f.price_aed_month - f.predicted_price_aed_month))) AS mae_aed\nFROM fact_listings f\nJOIN dim_property_type p USING (property_type_id)\nWHERE f.is_active = 1 AND f.is_flagged_fraud = 0\nGROUP BY p.property_type\nORDER BY avg_abs_gap_pct DESC;",
+    "columns": [
+      "property_type",
+      "listings",
+      "avg_abs_gap_pct",
+      "bias_pct",
+      "mae_aed"
+    ],
+    "rows": [
+      [
+        "Studio",
+        408,
+        15.4,
+        5.1,
+        418.0
+      ],
+      [
+        "Villa",
+        459,
+        10.0,
+        -0.1,
+        2602.0
+      ],
+      [
+        "3BR Apartment",
+        451,
+        9.6,
+        -0.5,
+        1144.0
+      ],
+      [
+        "1BR Apartment",
+        420,
+        9.5,
+        1.5,
+        507.0
+      ],
+      [
+        "Townhouse",
+        424,
+        9.2,
+        -0.7,
+        1444.0
+      ],
+      [
+        "2BR Apartment",
+        397,
+        8.8,
+        -0.1,
+        713.0
+      ]
+    ]
+  }
+]

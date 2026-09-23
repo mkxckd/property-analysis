@@ -1,0 +1,74 @@
+[
+  {
+    "area": "Palm Jumeirah",
+    "avg_price_per_sqft_annual": 156.2,
+    "listing_count": 179,
+    "excluded_fraud": 0
+  },
+  {
+    "area": "Downtown Dubai",
+    "avg_price_per_sqft_annual": 132.2,
+    "listing_count": 169,
+    "excluded_fraud": 0
+  },
+  {
+    "area": "Dubai Marina",
+    "avg_price_per_sqft_annual": 104.3,
+    "listing_count": 167,
+    "excluded_fraud": 0
+  },
+  {
+    "area": "Business Bay",
+    "avg_price_per_sqft_annual": 93.0,
+    "listing_count": 170,
+    "excluded_fraud": 0
+  },
+  {
+    "area": "Jumeirah Lake Towers",
+    "avg_price_per_sqft_annual": 88.7,
+    "listing_count": 196,
+    "excluded_fraud": 0
+  },
+  {
+    "area": "Arabian Ranches",
+    "avg_price_per_sqft_annual": 79.0,
+    "listing_count": 205,
+    "excluded_fraud": 0
+  },
+  {
+    "area": "Jumeirah Village Circle",
+    "avg_price_per_sqft_annual": 62.5,
+    "listing_count": 194,
+    "excluded_fraud": 0
+  },
+  {
+    "area": "Al Furjan",
+    "avg_price_per_sqft_annual": 60.6,
+    "listing_count": 196,
+    "excluded_fraud": 0
+  },
+  {
+    "area": "Discovery Gardens",
+    "avg_price_per_sqft_annual": 58.8,
+    "listing_count": 185,
+    "excluded_fraud": 0
+  },
+  {
+    "area": "Mirdif",
+    "avg_price_per_sqft_annual": 55.0,
+    "listing_count": 171,
+    "excluded_fraud": 0
+  },
+  {
+    "area": "Dubai Sports City",
+    "avg_price_per_sqft_annual": 52.1,
+    "listing_count": 186,
+    "excluded_fraud": 0
+  },
+  {
+    "area": "Dubai Silicon Oasis",
+    "avg_price_per_sqft_annual": 48.6,
+    "listing_count": 176,
+    "excluded_fraud": 0
+  }
+]

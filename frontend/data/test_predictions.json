@@ -1,0 +1,2202 @@
+[
+  {
+    "actual":20750,
+    "predicted":20859.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":1500,
+    "predicted":1246.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":43500,
+    "predicted":36908.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":14500,
+    "predicted":14928.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":6000,
+    "predicted":7831.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":23000,
+    "predicted":22007.0,
+    "area":"Dubai Marina"
+  },
+  {
+    "actual":15500,
+    "predicted":19600.0,
+    "area":"Mirdif"
+  },
+  {
+    "actual":2000,
+    "predicted":1794.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":31250,
+    "predicted":20410.0,
+    "area":"Jumeirah Village Circle"
+  },
+  {
+    "actual":7250,
+    "predicted":7830.0,
+    "area":"Mirdif"
+  },
+  {
+    "actual":17500,
+    "predicted":19309.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":16500,
+    "predicted":17971.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":11250,
+    "predicted":10128.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":29500,
+    "predicted":23877.0,
+    "area":"Downtown Dubai"
+  },
+  {
+    "actual":14750,
+    "predicted":18517.0,
+    "area":"Downtown Dubai"
+  },
+  {
+    "actual":22000,
+    "predicted":18403.0,
+    "area":"Dubai Marina"
+  },
+  {
+    "actual":46000,
+    "predicted":42623.0,
+    "area":"Downtown Dubai"
+  },
+  {
+    "actual":10000,
+    "predicted":11739.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":10000,
+    "predicted":10752.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":19500,
+    "predicted":25037.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":4750,
+    "predicted":5331.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":21000,
+    "predicted":23081.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":7250,
+    "predicted":8205.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":12000,
+    "predicted":13227.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":8000,
+    "predicted":9370.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":9000,
+    "predicted":10069.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":8750,
+    "predicted":10701.0,
+    "area":"Jumeirah Village Circle"
+  },
+  {
+    "actual":49000,
+    "predicted":47097.0,
+    "area":"Downtown Dubai"
+  },
+  {
+    "actual":14000,
+    "predicted":13739.0,
+    "area":"Business Bay"
+  },
+  {
+    "actual":23000,
+    "predicted":23865.0,
+    "area":"Mirdif"
+  },
+  {
+    "actual":2500,
+    "predicted":1980.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":5500,
+    "predicted":4935.0,
+    "area":"Mirdif"
+  },
+  {
+    "actual":10000,
+    "predicted":11387.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":15500,
+    "predicted":13342.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":21250,
+    "predicted":20514.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":30500,
+    "predicted":26978.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":11000,
+    "predicted":10125.0,
+    "area":"Mirdif"
+  },
+  {
+    "actual":24500,
+    "predicted":22812.0,
+    "area":"Jumeirah Village Circle"
+  },
+  {
+    "actual":22500,
+    "predicted":20129.0,
+    "area":"Mirdif"
+  },
+  {
+    "actual":7250,
+    "predicted":7622.0,
+    "area":"Downtown Dubai"
+  },
+  {
+    "actual":14250,
+    "predicted":11388.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":11500,
+    "predicted":10061.0,
+    "area":"Jumeirah Village Circle"
+  },
+  {
+    "actual":8500,
+    "predicted":9638.0,
+    "area":"Business Bay"
+  },
+  {
+    "actual":14000,
+    "predicted":14416.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":7250,
+    "predicted":7479.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":27000,
+    "predicted":22441.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":21250,
+    "predicted":22563.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":9500,
+    "predicted":10266.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":7250,
+    "predicted":8794.0,
+    "area":"Jumeirah Village Circle"
+  },
+  {
+    "actual":9750,
+    "predicted":9403.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":5750,
+    "predicted":6547.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":11000,
+    "predicted":11271.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":10000,
+    "predicted":9467.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":45750,
+    "predicted":43750.0,
+    "area":"Downtown Dubai"
+  },
+  {
+    "actual":7750,
+    "predicted":7406.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":11250,
+    "predicted":12561.0,
+    "area":"Dubai Marina"
+  },
+  {
+    "actual":3250,
+    "predicted":3577.0,
+    "area":"Mirdif"
+  },
+  {
+    "actual":8250,
+    "predicted":10704.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":15500,
+    "predicted":16156.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":7750,
+    "predicted":6981.0,
+    "area":"Business Bay"
+  },
+  {
+    "actual":12750,
+    "predicted":12701.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":18500,
+    "predicted":20212.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":6250,
+    "predicted":5838.0,
+    "area":"Mirdif"
+  },
+  {
+    "actual":13500,
+    "predicted":12340.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":12750,
+    "predicted":11334.0,
+    "area":"Dubai Marina"
+  },
+  {
+    "actual":11750,
+    "predicted":11565.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":17500,
+    "predicted":19801.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":4250,
+    "predicted":4227.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":22750,
+    "predicted":22566.0,
+    "area":"Dubai Marina"
+  },
+  {
+    "actual":15000,
+    "predicted":14891.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":4000,
+    "predicted":3560.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":10500,
+    "predicted":9618.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":28500,
+    "predicted":20249.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":9250,
+    "predicted":9574.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":11250,
+    "predicted":11443.0,
+    "area":"Jumeirah Village Circle"
+  },
+  {
+    "actual":22000,
+    "predicted":20482.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":4000,
+    "predicted":4201.0,
+    "area":"Dubai Marina"
+  },
+  {
+    "actual":3750,
+    "predicted":3713.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":7750,
+    "predicted":9045.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":8500,
+    "predicted":10025.0,
+    "area":"Dubai Marina"
+  },
+  {
+    "actual":3750,
+    "predicted":3400.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":12750,
+    "predicted":12855.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":3000,
+    "predicted":3561.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":3250,
+    "predicted":3609.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":17000,
+    "predicted":14432.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":48750,
+    "predicted":41846.0,
+    "area":"Dubai Marina"
+  },
+  {
+    "actual":2000,
+    "predicted":2980.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":3250,
+    "predicted":3447.0,
+    "area":"Business Bay"
+  },
+  {
+    "actual":25250,
+    "predicted":26315.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":24750,
+    "predicted":20619.0,
+    "area":"Downtown Dubai"
+  },
+  {
+    "actual":7750,
+    "predicted":8753.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":11250,
+    "predicted":10124.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":20750,
+    "predicted":23558.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":17750,
+    "predicted":17022.0,
+    "area":"Mirdif"
+  },
+  {
+    "actual":1750,
+    "predicted":2226.0,
+    "area":"Mirdif"
+  },
+  {
+    "actual":3750,
+    "predicted":3687.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":4500,
+    "predicted":4046.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":3500,
+    "predicted":3398.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":8250,
+    "predicted":9141.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":3250,
+    "predicted":3342.0,
+    "area":"Business Bay"
+  },
+  {
+    "actual":8250,
+    "predicted":7292.0,
+    "area":"Dubai Marina"
+  },
+  {
+    "actual":3750,
+    "predicted":3201.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":16250,
+    "predicted":14099.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":16000,
+    "predicted":18719.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":8250,
+    "predicted":8886.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":5500,
+    "predicted":6543.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":9000,
+    "predicted":9582.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":6750,
+    "predicted":7371.0,
+    "area":"Business Bay"
+  },
+  {
+    "actual":3500,
+    "predicted":3767.0,
+    "area":"Business Bay"
+  },
+  {
+    "actual":8500,
+    "predicted":8880.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":7000,
+    "predicted":7462.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":6500,
+    "predicted":5555.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":7250,
+    "predicted":8046.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":10500,
+    "predicted":11274.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":10500,
+    "predicted":10570.0,
+    "area":"Jumeirah Village Circle"
+  },
+  {
+    "actual":8000,
+    "predicted":7334.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":29750,
+    "predicted":30724.0,
+    "area":"Dubai Marina"
+  },
+  {
+    "actual":24500,
+    "predicted":27295.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":11500,
+    "predicted":9623.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":15500,
+    "predicted":18594.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":3000,
+    "predicted":2782.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":8250,
+    "predicted":9129.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":10000,
+    "predicted":9717.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":22000,
+    "predicted":20877.0,
+    "area":"Downtown Dubai"
+  },
+  {
+    "actual":6000,
+    "predicted":6990.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":19500,
+    "predicted":19307.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":19750,
+    "predicted":19225.0,
+    "area":"Downtown Dubai"
+  },
+  {
+    "actual":13500,
+    "predicted":12683.0,
+    "area":"Downtown Dubai"
+  },
+  {
+    "actual":13750,
+    "predicted":14502.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":9750,
+    "predicted":9231.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":5250,
+    "predicted":6049.0,
+    "area":"Downtown Dubai"
+  },
+  {
+    "actual":10750,
+    "predicted":10907.0,
+    "area":"Downtown Dubai"
+  },
+  {
+    "actual":4250,
+    "predicted":4160.0,
+    "area":"Jumeirah Village Circle"
+  },
+  {
+    "actual":9500,
+    "predicted":9149.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":2250,
+    "predicted":1526.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":4750,
+    "predicted":6025.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":3500,
+    "predicted":3664.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":24500,
+    "predicted":24629.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":3750,
+    "predicted":4233.0,
+    "area":"Mirdif"
+  },
+  {
+    "actual":4250,
+    "predicted":3807.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":17500,
+    "predicted":18248.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":13500,
+    "predicted":12019.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":13500,
+    "predicted":13779.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":10750,
+    "predicted":9023.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":9000,
+    "predicted":8962.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":43500,
+    "predicted":36352.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":20000,
+    "predicted":18841.0,
+    "area":"Jumeirah Village Circle"
+  },
+  {
+    "actual":3000,
+    "predicted":2512.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":3500,
+    "predicted":3776.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":5750,
+    "predicted":7006.0,
+    "area":"Business Bay"
+  },
+  {
+    "actual":9750,
+    "predicted":8993.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":14000,
+    "predicted":12101.0,
+    "area":"Jumeirah Village Circle"
+  },
+  {
+    "actual":2750,
+    "predicted":1922.0,
+    "area":"Mirdif"
+  },
+  {
+    "actual":9000,
+    "predicted":9287.0,
+    "area":"Jumeirah Village Circle"
+  },
+  {
+    "actual":3750,
+    "predicted":3273.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":23250,
+    "predicted":23760.0,
+    "area":"Downtown Dubai"
+  },
+  {
+    "actual":16500,
+    "predicted":14782.0,
+    "area":"Business Bay"
+  },
+  {
+    "actual":13500,
+    "predicted":13865.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":9500,
+    "predicted":8595.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":8750,
+    "predicted":9905.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":7750,
+    "predicted":8958.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":1500,
+    "predicted":1305.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":31500,
+    "predicted":30096.0,
+    "area":"Business Bay"
+  },
+  {
+    "actual":3250,
+    "predicted":3670.0,
+    "area":"Business Bay"
+  },
+  {
+    "actual":19000,
+    "predicted":15748.0,
+    "area":"Dubai Marina"
+  },
+  {
+    "actual":17750,
+    "predicted":18274.0,
+    "area":"Business Bay"
+  },
+  {
+    "actual":14250,
+    "predicted":14037.0,
+    "area":"Mirdif"
+  },
+  {
+    "actual":10000,
+    "predicted":9775.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":6250,
+    "predicted":6529.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":7000,
+    "predicted":7680.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":10000,
+    "predicted":11542.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":26500,
+    "predicted":22399.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":5000,
+    "predicted":5713.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":22250,
+    "predicted":19031.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":5500,
+    "predicted":6099.0,
+    "area":"Business Bay"
+  },
+  {
+    "actual":6750,
+    "predicted":6703.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":7750,
+    "predicted":7102.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":6750,
+    "predicted":7172.0,
+    "area":"Business Bay"
+  },
+  {
+    "actual":9500,
+    "predicted":9079.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":13250,
+    "predicted":13007.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":9750,
+    "predicted":9573.0,
+    "area":"Jumeirah Village Circle"
+  },
+  {
+    "actual":11250,
+    "predicted":11084.0,
+    "area":"Jumeirah Village Circle"
+  },
+  {
+    "actual":6000,
+    "predicted":6191.0,
+    "area":"Dubai Marina"
+  },
+  {
+    "actual":58000,
+    "predicted":58829.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":6000,
+    "predicted":6410.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":8250,
+    "predicted":7945.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":22000,
+    "predicted":22474.0,
+    "area":"Dubai Marina"
+  },
+  {
+    "actual":8250,
+    "predicted":7984.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":42500,
+    "predicted":43172.0,
+    "area":"Downtown Dubai"
+  },
+  {
+    "actual":29500,
+    "predicted":28107.0,
+    "area":"Jumeirah Village Circle"
+  },
+  {
+    "actual":5000,
+    "predicted":5154.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":21250,
+    "predicted":18971.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":10000,
+    "predicted":10536.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":6750,
+    "predicted":6271.0,
+    "area":"Downtown Dubai"
+  },
+  {
+    "actual":5250,
+    "predicted":4641.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":7500,
+    "predicted":7680.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":9000,
+    "predicted":8426.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":12500,
+    "predicted":10725.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":5500,
+    "predicted":4971.0,
+    "area":"Jumeirah Village Circle"
+  },
+  {
+    "actual":25250,
+    "predicted":28138.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":6750,
+    "predicted":6996.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":19500,
+    "predicted":20750.0,
+    "area":"Mirdif"
+  },
+  {
+    "actual":10500,
+    "predicted":10163.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":21000,
+    "predicted":22232.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":22250,
+    "predicted":26689.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":35000,
+    "predicted":31083.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":3750,
+    "predicted":4366.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":21000,
+    "predicted":22702.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":34250,
+    "predicted":30587.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":9500,
+    "predicted":11632.0,
+    "area":"Mirdif"
+  },
+  {
+    "actual":8000,
+    "predicted":7441.0,
+    "area":"Downtown Dubai"
+  },
+  {
+    "actual":4000,
+    "predicted":4232.0,
+    "area":"Jumeirah Village Circle"
+  },
+  {
+    "actual":18250,
+    "predicted":19828.0,
+    "area":"Downtown Dubai"
+  },
+  {
+    "actual":13500,
+    "predicted":13489.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":23250,
+    "predicted":19848.0,
+    "area":"Dubai Marina"
+  },
+  {
+    "actual":16750,
+    "predicted":17521.0,
+    "area":"Downtown Dubai"
+  },
+  {
+    "actual":48750,
+    "predicted":41862.0,
+    "area":"Downtown Dubai"
+  },
+  {
+    "actual":9250,
+    "predicted":7716.0,
+    "area":"Jumeirah Village Circle"
+  },
+  {
+    "actual":4000,
+    "predicted":3846.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":6500,
+    "predicted":7077.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":8000,
+    "predicted":7863.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":8750,
+    "predicted":10172.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":32000,
+    "predicted":34162.0,
+    "area":"Dubai Marina"
+  },
+  {
+    "actual":29500,
+    "predicted":31063.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":9250,
+    "predicted":9168.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":6500,
+    "predicted":5955.0,
+    "area":"Mirdif"
+  },
+  {
+    "actual":18000,
+    "predicted":18217.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":1750,
+    "predicted":1412.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":3250,
+    "predicted":3522.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":5000,
+    "predicted":5868.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":15250,
+    "predicted":15312.0,
+    "area":"Business Bay"
+  },
+  {
+    "actual":10500,
+    "predicted":12096.0,
+    "area":"Dubai Marina"
+  },
+  {
+    "actual":7000,
+    "predicted":7937.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":16500,
+    "predicted":15328.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":9000,
+    "predicted":8339.0,
+    "area":"Mirdif"
+  },
+  {
+    "actual":11250,
+    "predicted":12596.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":8250,
+    "predicted":8572.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":25500,
+    "predicted":21994.0,
+    "area":"Downtown Dubai"
+  },
+  {
+    "actual":12750,
+    "predicted":15496.0,
+    "area":"Downtown Dubai"
+  },
+  {
+    "actual":26500,
+    "predicted":14242.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":2000,
+    "predicted":1383.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":15000,
+    "predicted":15810.0,
+    "area":"Dubai Marina"
+  },
+  {
+    "actual":1750,
+    "predicted":1399.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":12000,
+    "predicted":11029.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":8000,
+    "predicted":8237.0,
+    "area":"Dubai Marina"
+  },
+  {
+    "actual":29500,
+    "predicted":31577.0,
+    "area":"Dubai Marina"
+  },
+  {
+    "actual":25250,
+    "predicted":27763.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":14500,
+    "predicted":17022.0,
+    "area":"Mirdif"
+  },
+  {
+    "actual":9000,
+    "predicted":10801.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":16750,
+    "predicted":14275.0,
+    "area":"Dubai Marina"
+  },
+  {
+    "actual":5750,
+    "predicted":7445.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":7500,
+    "predicted":7230.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":22000,
+    "predicted":22293.0,
+    "area":"Business Bay"
+  },
+  {
+    "actual":7250,
+    "predicted":7258.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":2250,
+    "predicted":2217.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":17000,
+    "predicted":19983.0,
+    "area":"Jumeirah Village Circle"
+  },
+  {
+    "actual":8750,
+    "predicted":9996.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":10000,
+    "predicted":11517.0,
+    "area":"Jumeirah Village Circle"
+  },
+  {
+    "actual":14000,
+    "predicted":14676.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":18500,
+    "predicted":18954.0,
+    "area":"Downtown Dubai"
+  },
+  {
+    "actual":20750,
+    "predicted":22564.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":1750,
+    "predicted":1499.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":4000,
+    "predicted":3942.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":21500,
+    "predicted":23820.0,
+    "area":"Jumeirah Village Circle"
+  },
+  {
+    "actual":37750,
+    "predicted":36667.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":8500,
+    "predicted":7807.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":4500,
+    "predicted":5266.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":9750,
+    "predicted":9869.0,
+    "area":"Mirdif"
+  },
+  {
+    "actual":10000,
+    "predicted":8777.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":2750,
+    "predicted":2751.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":10250,
+    "predicted":10135.0,
+    "area":"Jumeirah Village Circle"
+  },
+  {
+    "actual":10250,
+    "predicted":13281.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":3750,
+    "predicted":4165.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":10500,
+    "predicted":12367.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":2250,
+    "predicted":1783.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":14250,
+    "predicted":14957.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":11000,
+    "predicted":9916.0,
+    "area":"Jumeirah Village Circle"
+  },
+  {
+    "actual":10500,
+    "predicted":11052.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":4250,
+    "predicted":5220.0,
+    "area":"Jumeirah Village Circle"
+  },
+  {
+    "actual":2250,
+    "predicted":1634.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":13500,
+    "predicted":11335.0,
+    "area":"Mirdif"
+  },
+  {
+    "actual":8750,
+    "predicted":8743.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":12000,
+    "predicted":13233.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":16250,
+    "predicted":17045.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":27000,
+    "predicted":28450.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":4750,
+    "predicted":5186.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":21000,
+    "predicted":19142.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":8750,
+    "predicted":7838.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":10250,
+    "predicted":11468.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":16250,
+    "predicted":15770.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":3000,
+    "predicted":3282.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":9500,
+    "predicted":9777.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":21500,
+    "predicted":22187.0,
+    "area":"Dubai Marina"
+  },
+  {
+    "actual":4000,
+    "predicted":4140.0,
+    "area":"Jumeirah Village Circle"
+  },
+  {
+    "actual":49000,
+    "predicted":41395.0,
+    "area":"Downtown Dubai"
+  },
+  {
+    "actual":32000,
+    "predicted":28674.0,
+    "area":"Dubai Marina"
+  },
+  {
+    "actual":44250,
+    "predicted":40455.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":3250,
+    "predicted":4386.0,
+    "area":"Dubai Marina"
+  },
+  {
+    "actual":44750,
+    "predicted":45254.0,
+    "area":"Downtown Dubai"
+  },
+  {
+    "actual":3000,
+    "predicted":3786.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":10250,
+    "predicted":9323.0,
+    "area":"Dubai Marina"
+  },
+  {
+    "actual":57250,
+    "predicted":63960.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":5000,
+    "predicted":4158.0,
+    "area":"Jumeirah Village Circle"
+  },
+  {
+    "actual":4250,
+    "predicted":3774.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":5500,
+    "predicted":6393.0,
+    "area":"Dubai Marina"
+  },
+  {
+    "actual":3500,
+    "predicted":3483.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":5750,
+    "predicted":4622.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":4750,
+    "predicted":4321.0,
+    "area":"Jumeirah Village Circle"
+  },
+  {
+    "actual":15000,
+    "predicted":17376.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":11000,
+    "predicted":12705.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":18750,
+    "predicted":20587.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":14500,
+    "predicted":15787.0,
+    "area":"Jumeirah Village Circle"
+  },
+  {
+    "actual":4750,
+    "predicted":6711.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":8000,
+    "predicted":8790.0,
+    "area":"Business Bay"
+  },
+  {
+    "actual":2250,
+    "predicted":1839.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":2500,
+    "predicted":1670.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":23750,
+    "predicted":19352.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":6250,
+    "predicted":5978.0,
+    "area":"Mirdif"
+  },
+  {
+    "actual":48500,
+    "predicted":47078.0,
+    "area":"Downtown Dubai"
+  },
+  {
+    "actual":2000,
+    "predicted":2145.0,
+    "area":"Jumeirah Village Circle"
+  },
+  {
+    "actual":3250,
+    "predicted":3485.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":2750,
+    "predicted":2217.0,
+    "area":"Jumeirah Village Circle"
+  },
+  {
+    "actual":1500,
+    "predicted":1213.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":6250,
+    "predicted":8123.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":4750,
+    "predicted":5370.0,
+    "area":"Mirdif"
+  },
+  {
+    "actual":4000,
+    "predicted":3685.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":3750,
+    "predicted":4471.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":15250,
+    "predicted":13362.0,
+    "area":"Business Bay"
+  },
+  {
+    "actual":34750,
+    "predicted":34205.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":39750,
+    "predicted":38980.0,
+    "area":"Downtown Dubai"
+  },
+  {
+    "actual":8500,
+    "predicted":8201.0,
+    "area":"Downtown Dubai"
+  },
+  {
+    "actual":6250,
+    "predicted":6961.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":11250,
+    "predicted":11208.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":18000,
+    "predicted":17807.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":6750,
+    "predicted":6923.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":33750,
+    "predicted":30473.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":31000,
+    "predicted":28019.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":26750,
+    "predicted":32486.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":17750,
+    "predicted":20710.0,
+    "area":"Downtown Dubai"
+  },
+  {
+    "actual":18750,
+    "predicted":16519.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":44000,
+    "predicted":50226.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":6250,
+    "predicted":5000.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":5250,
+    "predicted":4440.0,
+    "area":"Jumeirah Village Circle"
+  },
+  {
+    "actual":8250,
+    "predicted":7221.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":9000,
+    "predicted":9238.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":41250,
+    "predicted":46753.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":2000,
+    "predicted":1457.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":39000,
+    "predicted":40994.0,
+    "area":"Business Bay"
+  },
+  {
+    "actual":6000,
+    "predicted":5954.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":13500,
+    "predicted":12250.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":2500,
+    "predicted":1636.0,
+    "area":"Mirdif"
+  },
+  {
+    "actual":3750,
+    "predicted":3644.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":4250,
+    "predicted":4903.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":8750,
+    "predicted":8672.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":4000,
+    "predicted":3185.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":3500,
+    "predicted":3736.0,
+    "area":"Business Bay"
+  },
+  {
+    "actual":9750,
+    "predicted":9165.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":29250,
+    "predicted":23425.0,
+    "area":"Downtown Dubai"
+  },
+  {
+    "actual":48000,
+    "predicted":47505.0,
+    "area":"Downtown Dubai"
+  },
+  {
+    "actual":4750,
+    "predicted":5560.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":7500,
+    "predicted":7014.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":35000,
+    "predicted":34790.0,
+    "area":"Business Bay"
+  },
+  {
+    "actual":16000,
+    "predicted":17959.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":9500,
+    "predicted":8120.0,
+    "area":"Downtown Dubai"
+  },
+  {
+    "actual":9500,
+    "predicted":8725.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":2000,
+    "predicted":1567.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":8000,
+    "predicted":7978.0,
+    "area":"Business Bay"
+  },
+  {
+    "actual":2500,
+    "predicted":2300.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":8500,
+    "predicted":8239.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":4500,
+    "predicted":4454.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":13000,
+    "predicted":13202.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":21000,
+    "predicted":18987.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":7000,
+    "predicted":7177.0,
+    "area":"Mirdif"
+  },
+  {
+    "actual":6250,
+    "predicted":5310.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":8500,
+    "predicted":8220.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":8250,
+    "predicted":9865.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":18250,
+    "predicted":19912.0,
+    "area":"Dubai Marina"
+  },
+  {
+    "actual":29250,
+    "predicted":30768.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":7250,
+    "predicted":6429.0,
+    "area":"Mirdif"
+  },
+  {
+    "actual":4250,
+    "predicted":5231.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":4250,
+    "predicted":3850.0,
+    "area":"Mirdif"
+  },
+  {
+    "actual":4000,
+    "predicted":3595.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":10250,
+    "predicted":10143.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":4000,
+    "predicted":3907.0,
+    "area":"Business Bay"
+  },
+  {
+    "actual":4750,
+    "predicted":5231.0,
+    "area":"Dubai Marina"
+  },
+  {
+    "actual":5500,
+    "predicted":5663.0,
+    "area":"Business Bay"
+  },
+  {
+    "actual":9000,
+    "predicted":7747.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":7500,
+    "predicted":8323.0,
+    "area":"Downtown Dubai"
+  },
+  {
+    "actual":8000,
+    "predicted":8698.0,
+    "area":"Dubai Marina"
+  },
+  {
+    "actual":8250,
+    "predicted":7526.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":7250,
+    "predicted":8086.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":29500,
+    "predicted":32784.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":28250,
+    "predicted":22700.0,
+    "area":"Dubai Marina"
+  },
+  {
+    "actual":14000,
+    "predicted":14675.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":21500,
+    "predicted":21872.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":3000,
+    "predicted":3571.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":3750,
+    "predicted":3577.0,
+    "area":"Business Bay"
+  },
+  {
+    "actual":7500,
+    "predicted":8875.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":12000,
+    "predicted":11065.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":20000,
+    "predicted":17853.0,
+    "area":"Dubai Marina"
+  },
+  {
+    "actual":6750,
+    "predicted":6451.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":10750,
+    "predicted":10738.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":11500,
+    "predicted":11742.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":2000,
+    "predicted":1669.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":12000,
+    "predicted":12368.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":4500,
+    "predicted":4519.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":7750,
+    "predicted":8963.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":11250,
+    "predicted":11875.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":12250,
+    "predicted":11137.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":16250,
+    "predicted":19989.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":6500,
+    "predicted":7659.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":17000,
+    "predicted":18988.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":4250,
+    "predicted":4835.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":14500,
+    "predicted":14393.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":4500,
+    "predicted":4178.0,
+    "area":"Jumeirah Village Circle"
+  },
+  {
+    "actual":4750,
+    "predicted":5454.0,
+    "area":"Mirdif"
+  },
+  {
+    "actual":5000,
+    "predicted":4641.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":3750,
+    "predicted":3200.0,
+    "area":"Business Bay"
+  },
+  {
+    "actual":11250,
+    "predicted":11062.0,
+    "area":"Discovery Gardens"
+  },
+  {
+    "actual":4250,
+    "predicted":3941.0,
+    "area":"Business Bay"
+  },
+  {
+    "actual":18500,
+    "predicted":19367.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":19000,
+    "predicted":18111.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":1750,
+    "predicted":1448.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":13000,
+    "predicted":11470.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":1750,
+    "predicted":1407.0,
+    "area":"Dubai Silicon Oasis"
+  },
+  {
+    "actual":19750,
+    "predicted":18940.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":7250,
+    "predicted":6645.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":5750,
+    "predicted":6828.0,
+    "area":"Jumeirah Village Circle"
+  },
+  {
+    "actual":4250,
+    "predicted":3830.0,
+    "area":"Jumeirah Lake Towers"
+  },
+  {
+    "actual":3250,
+    "predicted":3048.0,
+    "area":"Al Furjan"
+  },
+  {
+    "actual":15500,
+    "predicted":13403.0,
+    "area":"Arabian Ranches"
+  },
+  {
+    "actual":2750,
+    "predicted":2150.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":16250,
+    "predicted":14922.0,
+    "area":"Dubai Marina"
+  },
+  {
+    "actual":10000,
+    "predicted":9977.0,
+    "area":"Jumeirah Village Circle"
+  },
+  {
+    "actual":10750,
+    "predicted":11705.0,
+    "area":"Downtown Dubai"
+  },
+  {
+    "actual":23000,
+    "predicted":21381.0,
+    "area":"Palm Jumeirah"
+  },
+  {
+    "actual":9000,
+    "predicted":11025.0,
+    "area":"Jumeirah Village Circle"
+  },
+  {
+    "actual":6250,
+    "predicted":6176.0,
+    "area":"Dubai Sports City"
+  },
+  {
+    "actual":18250,
+    "predicted":18071.0,
+    "area":"Dubai Marina"
+  },
+  {
+    "actual":2000,
+    "predicted":1912.0,
+    "area":"Jumeirah Village Circle"
+  }
+]
